@@ -1,0 +1,1244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Faithfull narrative of the late testimony and demand made to Oliver Cromwel, and his powers, on the behalf of the Lords prisoners, in the name of the Lord Jehovah (Jesus Christ,) king of saints and nations. Published by faithful hands, members of churches (out of the original copies) to prevent mistakes, and misreports thereupon. To the faithful remnant of the Lamb, who are in this day of great rebuke and blasphemy, ingaged against the beast and his government, especially, to the new non-conforming churches, and saints in city and country, commonly called by the name of fifth monarchy men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 140 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85071</idno>
+            <idno type="STC">Wing F278</idno>
+            <idno type="STC">Thomason E830_20</idno>
+            <idno type="STC">ESTC R207450</idno>
+            <idno type="EEBO-CITATION">99866500</idno>
+            <idno type="PROQUEST">99866500</idno>
+            <idno type="VID">118775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118775)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E830[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Faithfull narrative of the late testimony and demand made to Oliver Cromwel, and his powers, on the behalf of the Lords prisoners, in the name of the Lord Jehovah (Jesus Christ,) king of saints and nations. Published by faithful hands, members of churches (out of the original copies) to prevent mistakes, and misreports thereupon. To the faithful remnant of the Lamb, who are in this day of great rebuke and blasphemy, ingaged against the beast and his government, especially, to the new non-conforming churches, and saints in city and country, commonly called by the name of fifth monarchy men.</title>
+                  <author>Horton, Hur.</author>
+               </titleStmt>
+               <extent>[10], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1654. [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In three sections; the first section is signed by Hur Horton and eleven others.</note>
+                  <note>The Lords prisoners = John Rogers and Christopher Feake.</note>
+                  <note>Annotation on Thomason copy: "March. 21.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, John, 1627-1665? --  Early works to 1800.</term>
+               <term>Feake, Christopher, fl. 1645-1660 --  Early works to 1800.</term>
+               <term>Millennialism --  Early works to 1800.</term>
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118775:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Faithfull</hi> NARRATIVE OF The late <hi>Teſtimony</hi> and <hi>Demand</hi> made to <hi>Oliver Cromwel,</hi> and his <hi>Powers,</hi> on the Behalf of the LORDS PRISONERS, In the Name of the <hi>Lord Jehovah</hi> (Jeſus Chriſt,) King of <hi>Saints and Nations.</hi> Publiſhed by Faithful hands, Members of Churches (out of the original Copies) to prevent miſtakes, and miſreports there<g ref="char:EOLhyphen"/>upon. To the <hi>Faithful Remnant</hi> of the <hi>Lamb,</hi> who are in this Day of <hi>great Rebuke</hi> and <hi>Blaſphe</hi>
+               <g ref="char:EOLhyphen"/>my, ingaged <hi>againſt the BEAST and his GOVERNMENT,</hi> eſ<g ref="char:EOLhyphen"/>pecially, to the <hi>New Non-Conforming Churches,</hi> and <hi>Saints</hi> in <hi>City</hi> and <hi>Country,</hi> commonly called by the <hi>Name</hi> of <hi>Fifth Monarchy-men.</hi>
+            </p>
+            <q>
+               <bibl>Numb. 16.5. </bibl>
+               <p>
+                  <hi>Even to morrow the Lord will ſhew who are his, and who is holy, and will cauſe him to come near to him, even him whom he hath choſen will he cauſe to come near to him: therefore take you Cen<g ref="char:EOLhyphen"/>ſers,</hi> &amp;c. </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Gen.</hi> 42.16.</bibl>
+               <p> 
+                  <hi>And ye ſhall be kept in Priſon, that your words may be proved.</hi>
+               </p>
+            </q>
+            <p>Printed in the year 1654.</p>
+         </div>
+         <div type="prefatory_letter">
+            <pb facs="tcp:118775:2" rendition="simple:additions"/>
+            <pb facs="tcp:118775:2"/>
+            <head>To the little Remnant of the Lamb, againſt the Beaſt and his Government.</head>
+            <p>Some may wonder what we mean (the meaneſt of all the <hi>flock)</hi> to be ſo publick, and it may be our <hi>Deareſt Brethren</hi> the Lords <hi>priſoners</hi> (at <hi>Lambeth, Windſor,</hi> and elſewhere) but they know <hi>Neceſſity</hi> (by expe<g ref="char:EOLhyphen"/>rience) is the moſt abſolute plea now up, and a prevalent <hi>Argument</hi> to all <hi>parties</hi> intereſt and <hi>purpoſes,</hi> good and bad (we wonder, the <hi>Heathens</hi> worſ<g ref="char:EOLhyphen"/>hip her for a <hi>Goddeſſe,</hi> for ſhe doth great things now adayes too in <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) but we leave the <hi>Heatheniſh Neceſſity,</hi> or <hi>Court craft-Principle,</hi> and to take up the Heavenly Neceſſity, or Conſcience-Principle, which they explode; They themſelves who uſe to create <hi>neceſſities</hi> for them<g ref="char:EOLhyphen"/>ſelves, have created ſome for us too, by their ordinary (or rather extra<g ref="char:EOLhyphen"/>ordinary) diſeaſe amongſt them, <hi>viz.</hi> the flux of words, and running <hi>Fiſtu<g ref="char:EOLhyphen"/>la</hi> of Lyes, or blaſphemies of abominable ſavour. Our faces <hi>bluſh,</hi> whilſt our hearts <hi>turn</hi> within us, at the <hi>whoriſh Impudence</hi> and <hi>Imprudence</hi> of ſuch politick <hi>State-Profeſſours,</hi> who with their <hi>Stage-Devotion</hi> dare <hi>blaſpheme</hi> the name of <hi>Chriſt,</hi> to make <hi>Lyes</hi> their <hi>Refuge,</hi> as they do at this day. We had in<g ref="char:EOLhyphen"/>terded this <hi>following Diſcourſe</hi> (for all us) ſhould have lain a while in ſilence, had not ſome (who thought us and this faſt aſleep) ſought to murder and cut the <hi>throat</hi> of the <hi>truth</hi> and of this <hi>Teſtimony,</hi> with their notoriouſly <hi>falſe</hi> and <hi>oblique Reports;</hi> but that they may ſee the <hi>Truth,</hi> though like the <hi>two witneſſes</hi> (<hi>for three years</hi> and a <hi>half</hi>) may lie for <hi>ſlain,</hi> yet) it ſhall riſe again, and ſtand upon its <hi>feet,</hi> yea, in ſuch a manner, (with <hi>life from God</hi>) as will put all the <hi>Time-ſervers</hi> to their trumps too, and throw this <hi>ſelf-ſeeking Generation</hi> of pitiful <hi>Muck-worms,</hi> mercenary, <hi>carnal</hi> and <hi>Court affected profeſ<g ref="char:EOLhyphen"/>ſours</hi> into a <hi>pannick fear,</hi> and ague-<hi>agony-fit,</hi> (ere long) but in the <hi>interim, Truth</hi> is ſweet to us, (becauſe it is Gods, not ours) and the more it is <hi>perſecuted,</hi> we <hi>entertain</hi> it, and truſt (through grace) to live and die with it, becauſe the Kings <hi>(Chriſts)</hi> image is upon it, (though <hi>Ceſars</hi> be not) nor will it take the groſſe <hi>impreſſion</hi> of the preſent <hi>Army;</hi> for the metal is too good to take the ſtamp of <hi>Apoſtates;</hi> Therefore with all <hi>tenderneſſe,</hi> can<g ref="char:EOLhyphen"/>didneſſe, and faithfulneſſe, without reſpect to any one man more than another, and meerely for the poore-perſecuted <hi>Truths-ſake,</hi> whoſe <hi>ſighs</hi> and cryes and <hi>grones</hi> and tears, (by reaſon of thoſe unſupportable injuries, inhumane <hi>abuſes,</hi> and violences offered her) have <hi>pierced</hi> our hearts, and prevailed with us (whether we will or no) or rather, we think, we may ſay, the ſpirit of <hi>Chriſt</hi> in us) to this faithfull <hi>Publication</hi> thoſe paſſages in <hi>Iſa.</hi> 59.14 and 13,14,15,16. being often repeated in our minds, to wit, <hi>viz None calleth for Juſtice, nor any pleadeth for the truth, they all truſt in vanity and ſpeak lies, they conceive miſchief, and bring forth iniquity, they batch cockatrice egges and weave ſpiders webs,</hi> &amp;c. <hi>In tranſgreſſing and Lying againſt the Lord, and de<g ref="char:EOLhyphen"/>parting
+<pb facs="tcp:118775:3"/>away from our God, ſpeaking oppreſſion and revolt, conceiving and uttering from the heart words of</hi> Falſhood, <hi>and Judgement is turned away backward, and Juſtice ſtandeth afar off: for truth is fallen in the ſtreet, and equity cannot enter, yea, the truth faileth, and be that departeth from evil maketh himſelf a prey, and the Lord ſaw it, and it diſpleaſed him, that there was no</hi> Judgement. <hi>And he ſaw that there was no man, and wondered that there was no interceſſour, therefore his arm brought ſalvation unto him, and his righteouſneſſe it ſuſtained him,</hi> &amp;c. But beſides other Reaſons, ſhould we be longer ſilent, the three following would fall foully upon us.</p>
+            <p n="1">1. For that ſome of <hi>Satans Surrogates,</hi> the <hi>Court Penſioners</hi> and <hi>Pamphle<g ref="char:EOLhyphen"/>ters</hi> have let fly many <hi>filthy lyes</hi> and falſe <hi>reports,</hi> about <hi>City</hi> and <hi>Country,</hi> to poſſeſſe them with prejudicate <hi>apprehenſions</hi> and <hi>mis-informations</hi> about us: For it is <hi>Machiavils principle</hi> and <hi>Court policy,</hi> as ſoon as their <hi>falſe reports</hi> are given againſt the <hi>truth</hi> by <hi>mercenary creatures,</hi> to <hi>ſecond</hi> the <hi>charge,</hi> and make way for their <hi>Maſters</hi> to fall upon the <hi>bones</hi> of the <hi>truths Abbettors</hi> and <hi>Fautors:</hi> This we finde <hi>State-policy</hi> in all <hi>Hiſtories</hi> and <hi>Ages,</hi> and the practiſe of <hi>proud Tyrants,</hi> Pedagogues, and <hi>perſecutors;</hi> firſt, creating <hi>lyes</hi> againſt the <hi>Saints,</hi> and then bringing them into <hi>ſufferings</hi> (when once they had made them ſuf<g ref="char:EOLhyphen"/>ficiently <hi>odious,</hi> ſo that no eye might pity them) thus <hi>Iſaiah</hi> was reported for a lyer: <hi>Jeremiah</hi> a traitor; <hi>Daniel</hi> a rebel; <hi>Chriſt</hi> a blaſphemer; <hi>Paul</hi> a peſtilent fellow; the Apoſtles ſtirers up of <hi>ſedition,</hi> and <hi>preachers</hi> of new <hi>laws</hi> and <hi>doctrine,</hi> and ſuch as would ſubvert all <hi>Magiſtracy</hi> and <hi>Miniſtry, laws</hi> and <hi>Cuſtoms,</hi> and all then preſent: This principle and practice is revived again under this <hi>Government Nero like</hi> to inrobe the <hi>faithfulleſt</hi> of the <hi>aſſertors</hi> of the truth and <hi>teſtimony</hi> of <hi>Jeſus</hi> with <hi>Bear-skins,</hi> then to bait them with their <hi>Maſtiffs</hi> or <hi>Blood hounds;</hi> like men that will report their <hi>dogs mad,</hi> when they have a mind to <hi>hang</hi> them? ſo doubtleſſe the <hi>lyes</hi> raiſed againſt the <hi>poor Saints</hi> trampled upon and <hi>traduced</hi> (now) every where; eſpecially, the <hi>Lords priſoners,</hi> Mr. <hi>Feak,</hi> M. <hi>Rogers,</hi> and others <hi>&amp;c.</hi> are precurſory to ſome <hi>baſe</hi> (if not bloody) <hi>deſigne</hi> againſt them: Therefore it is, they give out, that they are <hi>railers, lyers, ſtirrers up of ſedition</hi> and <hi>tumults,</hi> enemies to Government, <hi>Magiſtracy, Miniſtry</hi> and <hi>Laws,</hi> and <hi>Evill-doers,</hi> and what not? as <hi>Perſecutors</hi> uſe to do of old: What is pretended againſt Mr. <hi>Rogers,</hi> may appear in what follows, who refuſed to make a full or <hi>formal reply</hi> without it were in an o<g ref="char:EOLhyphen"/>pen <hi>Court</hi> by a juſt and <hi>legall tryall,</hi> according to honeſt and <hi>known laws:</hi> Therefore (and for no other reaſon) as he declared to them, in our hearing; was it that he declined to Anſwer, and not becauſe he was <hi>non-pluſt,</hi> not able or afraid to anſwer, or the like, as the <hi>Court-creatures</hi> (who have made it their <hi>imployment</hi> for ſome dayes to <hi>blaze lyes</hi> about.) have moſt wickedly and untruly <hi>reported;</hi> but the truth is, they all ſeem to be given up over
+<pb facs="tcp:118775:3"/>head and ears into <hi>ſtrong lyes</hi> and <hi>deluſions:</hi> For ſometimes they ſaid he was too <hi>hold</hi> and plaid the <hi>Antick</hi> (like <hi>Caple</hi>) and at <hi>other times</hi> (to contradict themſelves ſufficiently) they ſaid he was ſo <hi>puſillanimous,</hi> that he ſtood and trembled before them, and what not? <hi>&amp;c.</hi> Now although it is notoriouſ<g ref="char:EOLhyphen"/>ly known (by us and others) that they are all moſt groſſe forged <hi>untruths,</hi> and <hi>Court devices,</hi> fetcht from the <hi>Father of lies,</hi> who is now more <hi>buſie</hi> than ever, againſt the <hi>Lords faithfull ones,</hi> to render them odious and obnoxious; yet not with any deſire to vindicate <hi>his</hi> or <hi>their perſons,</hi> for we commend them to the <hi>God of truth,</hi> in whoſe eyes, we (and thouſands, we think, we may ſay in <hi>England</hi>) are perſwaded they are very <hi>pretious, their God</hi> who is the <hi>Saints refuge</hi> eſpecially, when they be in <hi>ſufferings,</hi> priſons, perſecutions, or the like for them; they muſt look to <hi>lie</hi> under the <hi>laſh</hi> of all <hi>mens tongues</hi> almoſt; and no wonder if Mr. <hi>Rogers</hi> do now more than ever (by the <hi>great man</hi> himſelf, as well as by his creatures) ſince that day of his <hi>Appearance</hi> be<g ref="char:EOLhyphen"/>fore him ſuffer ſo much: But the great God that heareth prayers for him and his, ſuffering <hi>brethren</hi> will (doubtleſſe) <hi>deliver</hi> them, avenge them of their <hi>Adverſaries,</hi> and judge <hi>righteouſly</hi> (as Pſal. 37.6.) to <hi>bring forth their righ<g ref="char:EOLhyphen"/>teouſneſſe as the light, and their innocency as the noon day;</hi> with a <hi>Daniels Anſwer,</hi> cap. 6.2. <hi>My God bath ſent his Angel and ſhut the Lyons mouths, that they have not hurt me: Foraſmuch as before him</hi> innocency <hi>was found in me;</hi> yet we ſay, for the <hi>truths ſake,</hi> leſt the <hi>teſtimony</hi> ſhould ſuffer, We ſhall and muſt <hi>Declare</hi> a<g ref="char:EOLhyphen"/>gainſt that <hi>Generation</hi> of <hi>lyers</hi> and <hi>deceivers</hi> (as Apoſtates uſe to be) who go about, and ſpread abroad falſe <hi>reports</hi> of the <hi>wayes</hi> and People of God (by <hi>Letters, meſſengers</hi> or <hi>Pamphlets</hi>) purpoſely to poyſon poore people with-all (knowing the <hi>advantage</hi> they have by our <hi>forced ſilence;</hi> ſeeing we are not ſuffered to <hi>print,</hi> or any other wayes <hi>publiſh</hi> the <hi>truth</hi> for our ſelves:) If it were not lawfull to commit <hi>Fornication</hi> with the <hi>Moabites,</hi> to draw them to the true <hi>Religion;</hi> or if it be unlawfull to <hi>ſteal</hi> to relieve the <hi>poore;</hi> it is much more <hi>unlawful</hi> by <hi>lies,</hi> obloquies or <hi>blaſphemies</hi> to win the poor people to their <hi>falſe way.</hi> Wherefore in <hi>love</hi> to the <hi>Lord Jeſus,</hi> and this his bleſſed <hi>teſtimony</hi> now up, we bring the <hi>truth</hi> of the whole <hi>Matter</hi> of the <hi>diſcourſe</hi> to light; whereat none we hope will be offended, but thoſe that love <hi>darknes rather than light, becauſe their deeds are evill, John</hi> 3. For the honeſt <hi>Tradeſman</hi> is content to have his Wares carried into the <hi>Sun</hi> from a <hi>dim ſhop-board.</hi>
+            </p>
+            <p n="2">2. It is (and hath been but) now more than ever (ſince the <hi>Court-gloſſes</hi> have been printed and <hi>publiſhed</hi> upon it) the earneſt deſire, expectation and indeed <hi>Call</hi> of many of the <hi>Saints,</hi> to have as true a <hi>Narrative</hi> of the late <hi>Teſti<g ref="char:EOLhyphen"/>monies</hi> as we could publiſh; but ſeeing as <hi>Jer.</hi> 9.3. ſaith, <hi>None ſo valliant for the truth</hi> (whileft the wicked <hi>Apoſtates</hi> proceed from evill to evill) and knowing no other are ſo well <hi>accommodated</hi> to undertake it, as ſome of us,
+<pb facs="tcp:118775:4"/>who were either <hi>ear witneſſes</hi> or <hi>Writers</hi> hereof, we reſo've to publiſh it, and therefore have compared the <hi>papers</hi> together that were taken in <hi>Characters,</hi> and have given this <hi>accompt,</hi> which we believe is as well <hi>taken</hi> as could be in ſuch a <hi>crowd,</hi> and among ſuch <hi>interruptions,</hi> confuſions and <hi>diſturbances;</hi> we do not ſay to every <hi>individual word,</hi> point, or circumſtance, but in all the ma<g ref="char:EOLhyphen"/>terial paſſages, to the beſt of our <hi>knowledge,</hi> obſervation, or <hi>remembrance.</hi>
+            </p>
+            <p n="3">3. It is of ſome concernment to all the <hi>Remnant</hi> of the <hi>Womans ſeed,</hi> in <hi>City</hi> and <hi>Country,</hi> to know how far the <hi>Remnant</hi> in <hi>London,</hi> with this <hi>Te<g ref="char:EOLhyphen"/>ſtimony</hi> of <hi>Jeſus,</hi> and <hi>Cauſe</hi> have gone and are ingaged, and how high it is got up now, and what <hi>kind</hi> of <hi>Eſau-like Spirit</hi> it is that oppoſes it) which you may ſee in the <hi>Hiſtory</hi> following, by the variety of <hi>paſſages,</hi> providences, and <hi>occurrences</hi>) and who knows, but it may a little <hi>warm</hi> them that are <hi>cold,</hi> and <hi>enliven</hi> them that are <hi>dead;</hi> and <hi>ſtir up</hi> them that are <hi>drowſie,</hi> and <hi>comfort</hi> them that are <hi>drooping,</hi> and <hi>unite</hi> them that are <hi>differing,</hi> and <hi>incourage</hi> them that are <hi>fainting,</hi> whether in <hi>Churches,</hi> or <hi>out,</hi> in the <hi>Countries,</hi> to conſi<g ref="char:EOLhyphen"/>der their <hi>work</hi> alſo at this day, and what it is the <hi>Lord</hi> calls them to, (with their <hi>poor Brethren</hi> that now ſuffer in the <hi>three Nations</hi>) for the <hi>Lord Jeſus</hi> and his <hi>Cauſe</hi> againſt the <hi>Mighty,</hi> left they alſo (by their <hi>ſleepineſſe</hi> and ſilence) in<g ref="char:EOLhyphen"/>cur the curſe, Judges 5.26. which God forbid! for theſe and many other <hi>reaſons</hi> are we ſtirred up to this <hi>Narrative,</hi> ſeeing as <hi>Ahab</hi> did ſend for <hi>Michai<g ref="char:EOLhyphen"/>ah</hi> (2 <hi>Chran.</hi> 18.) to ſee if he would ſay, <hi>Go up and proſper,</hi> as his <hi>own Prophets</hi> did ſay to him, and as <hi>Ahab</hi> ſaid, v. 15. <hi>I adjure thee ſay nothing but the truth, which when he ſaid he would not ſuffer,</hi> but ſaid (as v. 25.) <hi>carry him back, put this fellow in priſon and feed him with the bread of affliction,</hi> ſo alſo was Mr. <hi>Rogers</hi> remanded to his <hi>Bonds</hi> in <hi>Lambeth,</hi> with more <hi>Severity</hi> than before too.</p>
+            <p>Neither are we without our <hi>Temptations</hi> in this little <hi>buſineſſe</hi> for the <hi>Lamb;</hi> ſome of which that have aſſaulted us, ariſe from fear of <hi>giving offence,</hi> but when we conſidered our <hi>Call,</hi> that was ſoon quelled, becauſe offence is taken, and not juſtly given by us herein, ſeeing we are commanded by <hi>Gods word</hi> to remove the <hi>ſtumbling block</hi> (of Lyes) out of our <hi>Brothers way.</hi> We had a holy <hi>Jealouſie</hi> over our own <hi>ſpirit,</hi> till we had tried them <hi>by Gods word,</hi> and the <hi>Primitive practiſe</hi> of <hi>Saints,</hi> Apoſtles, <hi>Prophets</hi> and holy <hi>Men,</hi> inſpired by the <hi>Holy Ghoſt,</hi> who ever ſpake and writ boldly in the <hi>name</hi> of the <hi>Lord</hi> for the <hi>Truth,</hi> Jam. 5.10, and who are our example. We conſider how eagerly our enemies would gape for <hi>Advantage</hi> againſt us, ſhould they find the leaſt <hi>miſtake,</hi> and poſſibly they will find <hi>many</hi> for as there is no <hi>pen,</hi> ſo there is no <hi>man</hi> without <hi>Errataes;</hi> yet for the <hi>Truths-ſake</hi> (ſo far as the <hi>Copies</hi> taken in <hi>ſhort hand,</hi> and our <hi>friends</hi> have agreed in one, though we confeſſe, it cannot be <hi>publiſhed</hi> ſo exactly as we could wiſh, ſeeing we met with ſo much <hi>inter<g ref="char:EOLhyphen"/>ruption</hi> as we ſaid before) the Lord knows we have been as faithful and im<g ref="char:EOLhyphen"/>partial
+<pb facs="tcp:118775:4"/>as we could befor our <hi>lives,</hi> and we bleſſe our <hi>gracious Father,</hi> we fear not what <hi>Fleſh can do unto us,</hi> as long as the <hi>Lord</hi> is with us, and on our ſide, and as long as we can claim <hi>protection</hi> from <hi>Jehovah</hi> our King by <hi>Covenant, intereſt,</hi> priviledge and <hi>propriety</hi> (however ſome cenſure that ſit at Stern, as if we were ignorant of the <hi>Covenant of grace,</hi> they ſhall find it other wiſe by the <hi>grace of our God,</hi> ere it be long) in the mean time an honeſt <hi>Jury man</hi> would rather have <hi>brought in</hi> an <hi>Ignoramus,</hi> than an unjuſt and wicked <hi>verdict,</hi> but we will wait with patience, till the <hi>Lord</hi> appear to <hi>deliver us,</hi> and till then we apply <hi>Pſal.</hi> 60.4. <hi>Thou haſt given a banner to them that fear thee, that it may be diſplayed becauſe of the truth,</hi> Selah! Beſides we do not (as the <hi>Court-Chriſtians</hi>) ſet our <hi>Diall</hi> by the <hi>Clocks</hi> of the <hi>time,</hi> (for ſo both would go falſe) but ra<g ref="char:EOLhyphen"/>ther ſet the <hi>Clocks</hi> that (ſtrike now adayes) by the <hi>Dials</hi> of <hi>truth,</hi> and accord<g ref="char:EOLhyphen"/>ing to the <hi>Teſtimony</hi> of good <hi>Conſciences,</hi> and then the <hi>Sunne</hi> that is now riſen with <hi>glorious rayes,</hi> luſtre and <hi>appearance</hi> (in this age) will ſhow us the time of the day, and what we have to do (like the <hi>Children</hi> of <hi>Iſſachar,</hi> 1 <hi>Chron.</hi> 12.32.) to keep all <hi>True,</hi> and to make the <hi>Clocks</hi> and <hi>Dials</hi> to <hi>center</hi> in one pe<g ref="char:EOLhyphen"/>riod of <hi>hour</hi> and <hi>time.</hi> As Chriſt our <hi>Sun</hi> appears, we hope to appear with him, and to <hi>riſe</hi> with him, and <hi>ſhine</hi> with him, and <hi>ſit</hi> with him on <hi>thrones,</hi> to <hi>Judge</hi> thoſe that have and do <hi>Judge</hi> us every day, <hi>Jude</hi> 14, 15. <hi>Rev.</hi> 20.4. though this be their day, yet we are ſure to have our day to <hi>Judge</hi> them, and then that queſtion (they are ſo cranck in) ſhall be put out of <hi>queſtion, viz.</hi> whether we are <hi>buſie-bodies</hi> in other <hi>mens matters,</hi> that Chriſt and his Meſſen<g ref="char:EOLhyphen"/>gers have nothing to do with, or in <hi>Chriſts matters,</hi> that <hi>all</hi> true Chriſtians have and ought to have to do with, all that are <hi>followers</hi> of the <hi>Lamb,</hi> and for which <hi>matters</hi> of Chriſt and all <hi>Saints</hi> againſt the Beaſt, our <hi>dear Brethren</hi> are ſo barbarouſly abuſed, perſecut<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, plundered and <hi>impriſoned,</hi> and for which we with them (through the <hi>grace of our Lord Jeſus</hi>) are reſolved to ſtand, whe<g ref="char:EOLhyphen"/>ther by <hi>life</hi> or by <hi>death:</hi> And this we are ſure of by <hi>experience</hi> (however they unworthily cenſure us, as a <hi>blind man</hi> would not believe there was a <hi>Sun,</hi> be<g ref="char:EOLhyphen"/>cauſe he <hi>ſaw</hi> it not, though ſome effects might have <hi>convinced</hi> him, ſo ſome effects (we hope in the Lord) ſhal lere long <hi>convince</hi> them, that we ſuffer for the <hi>pure Teſtimony</hi> of a <hi>good conſcience,</hi> and meerly for <hi>Chriſt</hi> and his <hi>Intereſt,</hi> and not for any man, <hi>Men,</hi> Thing or <hi>Intereſt</hi> whatſoever that is on <hi>Earth.</hi>
+            </p>
+            <p>This conſcience feaſts us (with very excellent <hi>viands</hi> from above, which we believe no <hi>caterer</hi> in the <hi>Court</hi> can provide their <hi>Great Maſters</hi> withal, but theirs is like to have but ſowr Sawce, though it be <hi>out-landiſh-like,</hi> as when <hi>Chirurgions</hi> open the <hi>dead bodies</hi> of <hi>Epicures,</hi> they find many <hi>indigeſted crudities;</hi> ſo will the <hi>Ancient of dayes</hi> (ere long) when he ſits to <hi>anatomize,</hi> diſſect and <hi>rip</hi> up their Conſciences, find many a <hi>foul crudity, viz.</hi> the <hi>ſculs,</hi> blood and <hi>bones</hi> of <hi>thouſands</hi> of the <hi>Saints</hi> to ſtick there; But the <hi>Lord have
+<pb facs="tcp:118775:5"/>mercy upon them</hi> (for the <hi>Plague is begun</hi>) if they be not paſt <hi>recovery</hi> or true <hi>Repentance:</hi> But if they be, then the <hi>Righteous,</hi> and <hi>Holy</hi> juſt <hi>God,</hi> who is <hi>our God</hi> will appear againſt them and their <hi>intereſt</hi> ſpeedily, <hi>powerfully</hi> and effe<g ref="char:EOLhyphen"/>ctually, according to <hi>all</hi> the <hi>Faith,</hi> Tears, and <hi>Appeals</hi> of his poor <hi>Worm Jacob,</hi> in whoſe <hi>hand</hi> we believe will be the <hi>New threſhing Inſtrument, viſibly</hi> are long. And then this contemptible <hi>teſtimony,</hi> or courſe <hi>Barley-Cake</hi> of <hi>Truth,</hi> will tumble from the <hi>Gideon Campe,</hi> and ſmite down all their <hi>Tents,</hi> according to the <hi>Faith,</hi> and <hi>Prayer</hi> of <hi>Chriſt's</hi> and his poore <hi>Remnants,</hi> deſpiſed <hi>Servants,</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>To</hi> do <hi>or</hi> to ſuffer, <hi>to</hi> live <hi>or to</hi> die, <hi>with them; in this moſt</hi> glorious, <hi>though clouded,</hi> precious, <hi>though Perſecuted</hi> Cauſe <hi>of</hi> CHRIST JESUS. <list>
+                     <item>
+                        <hi>Hur Horton,</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Crayle,</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Day,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Grove,</hi>
+                     </item>
+                     <item>
+                        <hi>John Pugh,</hi>
+                     </item>
+                     <item>
+                        <hi>John Durden,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Bradley,</hi>
+                     </item>
+                     <item>
+                        <hi>William Bragg,</hi>
+                     </item>
+                     <item>
+                        <hi>William Medley,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Young,</hi>
+                     </item>
+                     <item>
+                        <hi>James Wilſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Ingoll,</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>Liſt up a <hi>Banner</hi> upon the high mountain, <hi>exalt</hi> the <hi>voice</hi> unto them, ſhake the <hi>hand</hi> that they may go into the <hi>Gates</hi> of the <hi>Nobles.</hi> I have commanded my <hi>ſanctified ones:</hi> I have alſo <hi>called</hi> my <hi>mighty ones;</hi> for mine anger, even <hi>them</hi> that <hi>rejoyce</hi> in my <hi>Highneſſe. </hi>
+                  </p>
+               </q>
+               <bibl>
+                  <hi>Iſa.</hi> 13.2,3.</bibl>
+            </epigraph>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:118775:5"/>
+            <head>
+               <hi>A</hi> faithfull Narrative <hi>to the</hi> faithful Remnant <hi>round the Nation, the</hi> new Non-conformiſt-Churches, <hi>and</hi> Saints <hi>in</hi> City <hi>and</hi> Countrey, that go under the name of fifth Monarchy-men.</head>
+            <p>THE <hi>Hope</hi> we have of <hi>fair weather</hi> ariſes from the <hi>Rainbow</hi> in the <hi>Cloud,</hi> though the <hi>Cloud</hi> be <hi>black,</hi> the <hi>Sun</hi> is up, and looks <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull upon it, which hath produced divers <hi>colours,</hi> &amp; put the poore <hi>Saints</hi> hard upon <hi>faith,</hi> grones and <hi>prayers</hi> to make up that tremendous <hi>Judgement,</hi> and dreadful <hi>Thunderbolt</hi> that muſt fall out of this <hi>black Cloud</hi> (and which begins to rattle already) over the heads of the preſent <hi>Perſecutors,</hi> as <hi>Rev.</hi> 4. and the 5. <hi>From the throne of the Lamb goeth thunders and voyces,</hi> ſo in Chapter 8 and the 5. <hi>The Angel caſt the Cenſer</hi> (for he was before the throne) <hi>full of fire and incenſe,</hi> (viz. the <hi>Faith</hi> and <hi>Prayers</hi> of the poore per<g ref="char:EOLhyphen"/>ſecuted Saints) <hi>into the earth, and there were voices and thunderings, and lightnings, and an Earthquake,</hi> chap. 16.18. and 19.6. and it is well known the new <hi>Non-Conformiſts</hi> round the nation, are at it day and night, &amp;c. filling this <hi>Cenſer</hi> full, and before the <hi>Throne,</hi> giving the Lord no reſt; and though many have been as <hi>dead</hi> as <hi>dry bones,</hi> yet they begin to gather <hi>Sinews</hi> apace now, and are like (may we ſpeak it without Alaraming the <hi>New Court</hi>) to be an exceeding great Army, for the <hi>witneſſes</hi> are <hi>warm</hi> and begin to ſtir, and <hi>benummed ſenſes</hi> by uſe get <hi>life</hi> apace, ſo that the <hi>Remnant</hi> of the <hi>womans Seed,</hi> are like to have their hands full. Ere long, and long they think it, among them are thoſe deſpiſed ones of the Lord, that <hi>walk</hi> in <hi>fellowſhip</hi> with Mr. <hi>Rogers,</hi> now priſoner for the <hi>Teſtimony</hi> of <hi>Jeſus</hi> at <hi>Lambeth,</hi> who after ſeveral <hi>ſolemn dayes,</hi> and <hi>whole nights,</hi> did find it a <hi>preſent</hi> duty <hi>incum<g ref="char:EOLhyphen"/>bent</hi> upon them (and preparative to future) to go to <hi>Whitehall,</hi> (the revived Court) and <hi>demand</hi> the Lords priſoners, and bear their <hi>Teſtimony</hi> againſt theſe in <hi>preſent powers,</hi> for their groſſe ſins and Apoſtacies, which the <hi>whole Body</hi> agreed unto, (not one diſ<g ref="char:EOLhyphen"/>ſenting) with a loud <hi>Suffrage</hi> of <hi>Joy</hi> and <hi>alacrity,</hi> bleſſing the Lord
+<pb facs="tcp:118775:6"/>that they ſhould be honoured by the <hi>Lord Jeſus,</hi> as to be called to this <hi>Teſtimony,</hi> for his ſuffering <hi>Truth,</hi> and <hi>Saims</hi> at this day.</p>
+            <p>They <hi>ſought</hi> the Lord earneſtly <hi>two whole nights</hi> herein, though the firſt <hi>night</hi> they were <hi>diſturbed</hi> by ſome <hi>rude,</hi> abuſive <hi>Ruffians,</hi> that ſeemed <hi>Zealots</hi> for their <hi>Protector,</hi> they roughly handled, ſcurrilouſly miſcalled and abuſed ſome of the <hi>Brethren,</hi> that they hurried them away from Prayer, to <hi>priſon,</hi> (for night-prayers are reputed dangerous and diſturbful to the <hi>Court intereſt,</hi> yet for all that they kept another night, to have dire<g ref="char:EOLhyphen"/>ctions from the <hi>throne</hi> in the management of ſo high and noble a <hi>Meſſage,</hi> and that they might not in the leaſt diſhonour the <hi>dear name</hi> of the <hi>Lord Jehovah,</hi> nor the cauſe and Kingdome of Jeſus Chriſt, that now ſuffers: So, after they found much of Gods preſence, and many ſweet promiſes to apply, and concluded unanimouſly upon the number of twelve, which is the <hi>Lambs number</hi> againſt the <hi>Beaſt,</hi> and the <hi>Root</hi> and <hi>ſquare number</hi> of the <hi>hundred fourty four thouſand,</hi> in <hi>Rev.</hi> 14.) to deliver the Meſſage in truſt to <hi>Oliver Cromwel</hi> in perſon, in the name of the great Jehovah; and now that God alone might have the choice of the men, another time was appointed to ſeek the Lord, and then they all agreed to take their <hi>Call</hi> by <hi>Lot</hi> given in the <hi>name</hi> of the Lord; ſo that after ſolemn looking up to heaven, the <hi>Lot</hi> was given from the Lap, <hi>Prov.</hi> 16.33. and the 18.18. and fell upon <hi>twelve:</hi> but (to obſerve the Lords wiſdome) thoſe that they in their wiſdome ſhould probably and principally have pitched upon for <hi>parts,</hi> utterance and abilities, were (by the <hi>Lords Lot</hi>) put by; yet this appearing ſo undeniably to be of <hi>God,</hi> the ſame <hi>twelve</hi> were fully ſatisfied, and accepted their <hi>Call,</hi> after<g ref="char:EOLhyphen"/>ward they agreed to go (every one with his Bible in his hand) upon the Meſſage of the Church, accordingly upon the 29 of the <hi>eleventh Moneth,</hi> a ſolemn day of Prayer was kept, and they were ſent out in the name of the Lord Jeſus, the Contents of the <hi>Meſſage</hi> with which <hi>they were intruſted,</hi> is; <hi>as</hi> followeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118775:6"/>
+            <head>THE MESSAGE OF THE CHURCH To O. C. <hi>by the Twelve.</hi>
+            </head>
+            <q>
+               <p>
+                  <seg rend="decorInit">W</seg>E are ſent unto you (<hi>twelve</hi> of us) in the name of our <hi>Lord Jeſus,</hi> 
+                  <note place="margin">The Meſ<g ref="char:EOLhyphen"/>ſage of the Twelve Brethren.</note> and of that <hi>Church Society</hi> where<g ref="char:EOLhyphen"/>of Mr. <hi>Rogers</hi> (now priſoner for the <hi>Lord Je<g ref="char:EOLhyphen"/>ſus</hi> at <hi>Lambeth</hi>) is overſeer (in the <hi>holy Ghoſt</hi>) although we be <hi>poore</hi> deſpiſed <hi>worms,</hi> and the weakeſt and unworthieſt of the <hi>Lords Number,</hi> or of the <hi>Body</hi> to which we are related, and although we be not ſo able to ſpeak, as others of our Society might have been, yet after much ſeeking the <hi>Lord</hi> to be with us, and truſting in the ſtrength and name of our Lord <hi>Chriſt,</hi> by which we are come out this <hi>Day,</hi> after the <hi>Seal</hi> of ſome promiſes upon our <hi>ſpirits</hi> in the ſtrength of the <hi>anointing</hi>) we are (as well as the Lord ſhall enable us) come to deliver our <hi>Meſſage</hi> to you from the <hi>Lord,</hi> and that,</p>
+               <p>Firſt, Becauſe the <hi>Lot</hi> of the <hi>Lord</hi> is caſt <hi>upon us,</hi> 
+                  <note place="margin">The Rea<g ref="char:EOLhyphen"/>ſons.</note> (above o<g ref="char:EOLhyphen"/>thers.)</p>
+               <p>Secondly, Becauſe the <hi>Lord</hi> hath <hi>choſen</hi> the <hi>poore,</hi> and moſt <hi>de<g ref="char:EOLhyphen"/>ſpiſed things</hi> to <hi>confound</hi> and appear againſt the <hi>wiſe</hi> and <hi>great ones</hi> of the world, 1 <hi>Cor.</hi> 1.27.</p>
+               <pb n="2" facs="tcp:118775:7"/>
+               <p>Thirdly, Becauſe we are bound to <hi>ſympathiſe</hi> with the <hi>Saints</hi> in <hi>Bonds,</hi> Heb. 13.3. in the defence of the <hi>Goſpel,</hi> Phil. 17.14. and the Apoſtle blames them that ſtood not by him in his <hi>bonds,</hi> 1 <hi>Tim.</hi> 4.16, but we are reſolved (by the <hi>grace</hi> of our God) to own and ſtand by theſe our <hi>Brethren,</hi> the faithful <hi>Servants</hi> of the moſt High, and true and <hi>faithful Miniſters</hi> of <hi>Jeſus Chriſt,</hi> who are now <hi>perſecuted</hi> and <hi>impriſoned</hi> by you and your Powers.</p>
+            </q>
+            <p>Fourthly, Becauſe the <hi>Primitive Saints,</hi> who had a <hi>Primitive ſpirit</hi> (which we pray for, and are in dayly expectation of) ſpake boldly in the <hi>name</hi> of the <hi>Lord,</hi> Jam. 5. and the 10. and ſo muſt we to you, in the <hi>plainneſſe,</hi> fooliſhneſſe and <hi>ſimplicity</hi> of the <hi>Goſpel,</hi> without any <hi>Politick,</hi> ſtudied, or <hi>artificial frame</hi> of words or expreſſions after the <hi>wiſdome</hi> of the <hi>world,</hi> or the <hi>Princes of the world,</hi> 1 Cor. 2.6.8, 2 <hi>Cor.</hi> 2.17. therefore it is, we dare not give <hi>flattering titles</hi> to any man (whoſe <hi>breath is in his noſtrils</hi>) Job 32.21, 22. nor come we to make our <hi>petition</hi> to man (but to God we do) in theſe <hi>matters</hi> of our <hi>Faith</hi> and <hi>Conſciences,</hi> 
+               <note place="margin">Nota.</note> for which we contend this day, and for which our <hi>dear Brethren</hi> are cruel<g ref="char:EOLhyphen"/>ly <hi>impriſoned</hi> at <hi>Lambeth</hi> (meaning our <hi>Brother Rogers</hi>) and <hi>Wind<g ref="char:EOLhyphen"/>ſor</hi> (meaning <hi>Mr. Feak.</hi>)</p>
+            <p n="1">1. Wherefore in the name of <hi>our Lord Jeſus,</hi> and of that <hi>whole So<g ref="char:EOLhyphen"/>ciety,</hi> who have intruſted us on this errand, we are to <hi>DEMAND</hi> the Lords priſoners, thoſe priſoners of hope at <hi>Lambeth</hi> and <hi>Windſor,</hi> as due to <hi>Chriſt</hi> and his <hi>Churches,</hi> whom ye have ſo un<g ref="char:EOLhyphen"/>chriſtianly rent and torn from us, (we meaning the Churches) and neither <hi>we</hi> nor <hi>they</hi> know for what to this day, but we are perſwaded, <note place="margin">The Teſti<g ref="char:EOLhyphen"/>mony. <hi>In the pri<g ref="char:EOLhyphen"/>ſon</hi> Mr. Feak, Mr. Rogers Mr. Spitle-houſe. Col. Over<g ref="char:EOLhyphen"/>ton Col. Al<g ref="char:EOLhyphen"/>lured. Adj. Gen. Allen. with many others</note> it is for their <hi>Faith</hi> and <hi>Conſcience</hi> in the <hi>truth</hi> and <hi>Te<g ref="char:EOLhyphen"/>ſtimony</hi> of <hi>Jeſus Chriſt,</hi> againſt the foul <hi>Apoſtacies</hi> and <hi>ſins</hi> of the times in <hi>profeſſours,</hi> whether in <hi>Powers,</hi> Prieſts, <hi>Armies</hi> or others, that have caſt off the <hi>true Cauſe</hi> and <hi>Intereſt</hi> of <hi>Chriſt,</hi> and have ta<g ref="char:EOLhyphen"/>ken up the <hi>Creatures</hi> inſtead thereof, which can never ſtand. This <hi>demand</hi> we make according to <hi>Iſa</hi> 42.22.2 <hi>Chron.</hi> 28.11.</p>
+            <p n="2">2. And laſtly, (though we never yet did it in publick, yet) ſo long as you go on thus, we dare not but joyn with our* <hi>ſuffer<g ref="char:EOLhyphen"/>ing Brethren</hi> (<hi>viz.</hi> in what <hi>priſons</hi> ſoever) for their <hi>Conſciences,</hi> and this <hi>Cauſe of Chriſt,</hi> and declare and <hi>teſtifie</hi> againſt you (and the reſt; that adhere unto you, whether in <hi>Power</hi> or out) ſo long as you are the <hi>Enemies of Chriſt</hi> and his <hi>Cauſe</hi> at this day,
+<pb n="3" facs="tcp:118775:7"/>which we muſt do with the words of truth and ſobriety; <note place="margin">Since that M. Gen. Harriſon, Col. Court<g ref="char:EOLhyphen"/>ney, Col. Rich. M. Chary, impriſoned the 16 day of this Mo<g ref="char:EOLhyphen"/>neth, beſides all in other contries, and <hi>Scot<g ref="char:EOLhyphen"/>land</hi> thoſe there that are like to loſe their lives by bloody Tri<g ref="char:EOLhyphen"/>als, all theſe with many others ſuffering at this day for &amp; with the Teſtimony of a good con<g ref="char:EOLhyphen"/>ſcience a<g ref="char:EOLhyphen"/>gainſt men that have betrayed the cauſe of Chriſt: Others have been impriſoned, as <hi>Mr.</hi> Va<g ref="char:EOLhyphen"/>vaſor Pow<g ref="char:EOLhyphen"/>el, <hi>Mr.</hi> Jo. Simſon, <hi>Col.</hi> Okey, <hi>&amp;c.</hi>
+               </note> for the Lord will rend you, and all up by the <hi>Roots,</hi> that are not <hi>plants</hi> of his own <hi>planting,</hi> and the great God will appear (ere long) to <hi>confound</hi> and deſtroy this <hi>ſpirit</hi> of <hi>perſecution,</hi> injuſtice and <hi>Ty<g ref="char:EOLhyphen"/>ranny,</hi> which the poore <hi>(Non-Conforming) Saints</hi> feel ſo ſorely, and we pray you conſider that of <hi>Aſa,</hi> 2 Chron. 16. though a <hi>good man,</hi> and a great General, and Conquerour, when once he forſook the Lord, relied on an arm of Fleſh, and began to im<g ref="char:EOLhyphen"/>priſon the Lords Prophet, the hand of God was againſt him, (and ſo on others) and ſo will his wrath be upon you, and thoſe that belong to you, if you go on thus, and if God give you not a <hi>true</hi> and <hi>timely repentance</hi> of theſe great <hi>ſins</hi> which cry (day and night) for <hi>vengeance</hi> againſt you, and yours, and ſo do <hi>thouſands</hi> of the <hi>poore perſecuted Saints</hi> (however you are made to believe) therefore we pray you ſee (if you will yet keep the <hi>Captives</hi> of the <hi>Lord</hi>) <hi>Jer.</hi> 50 33, but mark it <hi>v.</hi> 34. ſo <hi>Iſa.</hi> 29.20.21. <hi>Pſal.</hi> 102.17, 20, 21. <hi>Pſal.</hi> 37.32, 33.34. <hi>Pſal.</hi> 79.11. and ſaith Chriſt, <hi>What you did unto theſe, you did unto me,</hi> and Acts 9. <hi>Saul, Saul, why per<g ref="char:EOLhyphen"/>ſecuteſt thou me;</hi> ſo fee in Matth. 18.28, 30, 34. ſee <hi>v.</hi> 35. <hi>Iſa.</hi> 49, 24, 25. Mal. 2.11, 12. Now to conclude, the day of Chriſt is at hand, which will ſet them free, and will (ere long) call you, and all about you to <hi>Judgment,</hi> for all theſe things that you have done, and ſuffered to be done againſt the Lord Jeſus and all his Saints, and for all the <hi>blood</hi> of the <hi>Saints</hi> that hath been ſhed againſt this <hi>Intereſt,</hi> and theſe <hi>evil things,</hi> which you have ſet up again, to the <hi>Joy</hi> of the <hi>wicked,</hi> the <hi>grief</hi> of the <hi>godly,</hi> and <hi>reproach</hi> of pure <hi>Religion</hi> and undefiled; This is the <hi>ſumme</hi> of our <hi>Meſſage,</hi> which we are ſent to deliver to you in the <hi>name</hi> of the Lord, <hi>and whe<g ref="char:EOLhyphen"/>ther you will hear, or whether you will forbear,</hi> we leave it with you, and to your <hi>conſcience,</hi> before God the <hi>Righteous Judge</hi> of heaven, and earth.</p>
+            <p>After long waiting, they obtained acceſſe, and all <hi>Twelve</hi> be<g ref="char:EOLhyphen"/>ing preſent together, <hi>one,</hi> (as the mouth of them) delivered the <hi>meſſage,</hi> but the word <hi>DEMAND</hi> would not go down wel, but the Lord <hi>Cromwel</hi> told them, that Mr. <hi>Feak</hi> and Mr. <hi>Rogers</hi> ſuffer<g ref="char:EOLhyphen"/>ed not for <hi>conſcience,</hi> but as <hi>evil-doers</hi> and <hi>buſie bodies in other mens matters.</hi> One of the <hi>Twelve</hi> then ſaid, if ſo, why were they not <hi>tryed</hi> by ſome <hi>known</hi> and <hi>juſt law,</hi> and <hi>convicted for evil doers,</hi> but
+<pb n="4" facs="tcp:118775:8"/>to keep them there in ſo long and <hi>cruell Impriſonment,</hi> without ſhewing <hi>cauſe,</hi> was contrary to <hi>Gods law,</hi> and the <hi>juſt laws</hi> of men, beſides, they were ſick, and weakly men; but he ſaid he would put it to an <hi>Iſſue</hi> upon <hi>Friday</hi> or <hi>Tueſday</hi> (as he ſaid) Mr. <hi>Rogers</hi> ſhould be brought before him: On the ſixth day of <hi>this twelfth Moneth,</hi> being the third day of the week, the <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> and ſiſters (many of them) of the <hi>Society</hi> met together, (and with much difficulty) got into the <hi>priſon</hi> to pray with Mr. <hi>Rogers,</hi> which they continued till between <hi>three</hi> and <hi>four of the clock,</hi> and then they were called away by the <hi>Gaoler</hi> to go to <hi>White-Hall,</hi> according to his <hi>Lord Protectors Order;</hi> ſo that in the <hi>name</hi> of (another) the <hi>Lord Protectour</hi> of <hi>heaven</hi> and <hi>earth,</hi> the great <hi>Jehovah</hi> (whoſe face they had ſo ſolemnly and ſo often ſought for his preſence with them) Mr. <hi>Rogers</hi> ſet out of <hi>Lambeth,</hi> along with <hi>Harding</hi> his Keeper, <note place="margin">Febr. <hi>6.</hi> laſt <hi>1654.</hi>
+               </note> and the reſt from the <hi>Church-ſociety</hi> (twenty Brethren being the moſt) going along with him, much rejoycing as they went (according to <hi>Acts</hi> 5.41.) <hi>that they were ſo honoured</hi> to be called <hi>before</hi> men, for the <hi>Name,</hi> Faith, and <hi>Cauſe</hi> of <hi>Jeſus,</hi> and when they came to <hi>Whitehall Bridge,</hi> others of the <hi>dear Saints</hi> of <hi>ſeveral Churches,</hi> waiting with tears and prayers, and acclamations, partly of joy, and partly of grief to receive him, and with an unamimous Suffrage, and ſignal tokens of love to him, and to this bleſſed Cauſe he ſuffers in, they prayed the Lords preſence to accompany him; ſo we paſſed by, and Mr. <hi>Rogers</hi> was by his <hi>Keeper</hi> carried into the Chamber hard by the Councel Chamber, but the Keeper onely had admittance into the long Gallery, to give notice, that the Priſoner was there, but by and by he came out again, and told Mr. <hi>Rogers</hi> and his friends, that they muſt all go down again, and go through the Guard chamber, but Mr. <hi>Rogers</hi> anſwered that was ſtrange, be<g ref="char:EOLhyphen"/>ing come ſo near, where the <hi>Great Man</hi> was, they muſt now go down to go through the <hi>Guard Chamber,</hi> and about again, but the Keeper anſwered, they muſt do it, he had order for it, which he did, not in the leaſt reſiſting, but the main end was as they found afterwards, to try whether they were <hi>ſword-proof</hi> or no: So by force, Mr. <hi>Rogers</hi> and his friends were carried the other way, back again through the Guard-Chamber, many o<g ref="char:EOLhyphen"/>ther people flocked about them, the <hi>Keeeper</hi> going foremoſt, Mr.
+<pb n="5" facs="tcp:118775:8"/>
+               <hi>Rogers</hi> (and his wife next to him) and his friends following cloſe after him, untill they came up to the Guard Chamber<g ref="char:EOLhyphen"/>doore, immediately was the word of Command given to the Guard, who aſſoon as they ſaw them and us coming in, fell foul<g ref="char:EOLhyphen"/>ly upon us with their ſwords, and their Halberds, ſaying, <note place="margin">The harſh uſage of the poore, per<g ref="char:EOLhyphen"/>ſecuted fiſth Monarchy-men.</note> 
+               <hi>Keep back, Keep back,</hi> to which Mr. <hi>Rogers</hi> anſwered with all his heart he would go back, (but his Keeper would not let him) we al<g ref="char:EOLhyphen"/>ſo ſaid, if they would give us liberty we would go back as faſt as we could, but they wruld not hear us, but fell upon us with a word and a blow, ſlaſhing and ſtriking in a moſt violent manner, calling us Rogues, damned Rogues, and evacuating the moſt ve<g ref="char:EOLhyphen"/>nomous words in their bellies, <hi>&amp;c.</hi> but we told them, not one of us had a weapon, but the Bible, (in their hands ſome had) and ſo we told them, but ſome ſaid, the <hi>ſword of the Spirit would be too hard for them one day,</hi> which occaſioned them to be the more vio<g ref="char:EOLhyphen"/>lent, who ſtruck (to chooſe) at their Bibles, hands, and heads, and ſo followed them, ſighting, ſlaſhing and beating the poore, naked Chriſtians all the way into the Court again, and there laying about them too, and ſaying they cared not for their Bi<g ref="char:EOLhyphen"/>bles, ſtill inculcating, inſulting, and calling us damned Rogues, and curſed dogs, and the like, but Mr. <hi>Rogers,</hi> and two or three more were ſhut in among their ſwords, whiles the reſt of the brethren were kept without in the Court, and did with very much patience bear all their railings, reproachings ſcoffs, ſcorns, flouts, jeers and injuries, offered them all the while by the Souldiers, and others of the Court-creatures, in the mean time <hi>Mr. Rogers,</hi> with two or three more, were brought into the Chamber of <hi>Henry</hi> the eighth, where were many Gentle<g ref="char:EOLhyphen"/>men of the Court complexion; ſome excuſing the aforeſaid vio<g ref="char:EOLhyphen"/>lence and aſſault, ſaying it was by accident, to which he an<g ref="char:EOLhyphen"/>ſwered, he conceived it not, but that it was rather a plot, and for ought he knew, there might be a deſigne to murder ſome or other, for the word was given <hi>to fall on,</hi> and it is conceived by moſt, that they did it on purpoſe to raiſe us to a mutiny, that ſo they might have had (at leaſt in appearance or pretence) ſome (or a more) Juſt Cauſe againſt Mr. <hi>Rogers</hi> and his friends in <hi>Church fellowſhip</hi> with him, for the <hi>Guardians</hi> confeſſe they did but as they were commanded. Whileſt ſome were excuſing this af<g ref="char:EOLhyphen"/>front
+<pb n="6" facs="tcp:118775:9"/>put upon Chriſt and his perſecuted Churches, others ſaid it was good enough for us, and it was pity we were not worſe uſed than we were, Mr. <hi>Rogers</hi> in the <hi>interim</hi> was talking with others, and two of the Guard told him how ſorry they were their fellows were ſo rough, and drew their ſwords, ſlaſhing ſo fiercely, and what a mercy it was, no more miſchief was done, ſeeing they had the command given them to do what they did, and that it was the readineſſe of ſome amongſt them againſt us, eſpecially the <hi>outlandiſh.</hi>—There was a ſhort diſcourſe between Mr. <hi>Rogers</hi> and ſome others.</p>
+            <sp>
+               <speaker>A.S.</speaker>
+               <p>Why did you come up there?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. R.</speaker>
+               <p>We were ſent for, and commanded to come; yea, brought by force upon you, <note place="margin">Nota.</note> and by your Maſters Command, who fell a ſlaſhing us with your <hi>ſwords,</hi> ſo that it is probable, it was a <hi>Deſign</hi> againſt us on purpoſe; elſe why ſhould <hi>peaceable men,</hi> that had no kind of <hi>weapons</hi> in their <hi>hands</hi> (or about them) with<g ref="char:EOLhyphen"/>out <hi>ſword</hi> or <hi>ſtuffe,</hi> but onely the <hi>Bibles</hi> with us poore naked <hi>men,</hi> and <hi>women</hi> be forced (by <hi>Order</hi> and <hi>command</hi> to come before your <hi>Maſter</hi>) and be thus abuſed, affronted, ſlaſhed and driven into <hi>dangers,</hi> but the Lord is righteous who will judge!</p>
+            </sp>
+            <sp>
+               <speaker>W.F.</speaker>
+               <p>But why came you with ſo many?</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>We were ſent for and commanded, and thoſe that came are Chriſtians, and <hi>Church-members,</hi> no wayes <hi>uncivil</hi> or diſor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>drly.</p>
+            </sp>
+            <sp>
+               <speaker>A.S.</speaker>
+               <p>Well, its well it was no worſe!</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>It was the <hi>Lord</hi> that made it ſo, <note place="margin">For ſo it was to to the late King and his court when his Meſſengers, and Guard<g ref="char:EOLhyphen"/>men fell upon the Ci<g ref="char:EOLhyphen"/>tizens with their ſwords at the gate, there was his blood ſhed.</note> in whoſe <hi>name</hi> we came, and he hath delivered us from your <hi>Fury,</hi> and the rage of the <hi>ſword,</hi> for they ſtruck with rage, fury and high purpoſe, to do more <hi>miſchief</hi> than they did, but it is Heb. 11. <hi>By faith they ob<g ref="char:EOLhyphen"/>tained promiſes, eſcaped the edge of the ſword,</hi> &amp;c. and ſo-have we eſca<g ref="char:EOLhyphen"/>ped <hi>Yours.</hi> (though ſome do bear the <hi>mark,</hi> but the <hi>Lord Jeſus</hi> will reward them when he comes.)</p>
+               <p>And you ſee <hi>Gentlemen,</hi> your <hi>ſword</hi> cuts bluntly, and doth little execution upon the poove <hi>fifth Monarchy men,</hi> though they be but naked, and <hi>unarmed,</hi> and it may be, this buſineſſe will be <hi>ominous</hi> to you in this place.</p>
+            </sp>
+            <sp>
+               <speaker>A.S.</speaker>
+               <p>We wonder to ſee ſo many <hi>women,</hi> and what they meant.</p>
+            </sp>
+            <pb n="7" facs="tcp:118775:9"/>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>And are ye ſo <hi>fearfull?</hi> It may be, it is true then what we hear, that the barking of a dog lately (running about the yard) gave you a very great <hi>alarm,</hi> ſeeing the ſight of a <hi>few women</hi> hath frighted you ſo pitifully, as to draw your <hi>ſwords</hi> upon them and hurt them: alas poor hearts! you are pitifully <hi>affrighted</hi> it ſeems! what would you have done then at the <hi>ſight</hi> of weapons, if a few <hi>white aprons</hi> makes you flie to your <hi>ſwords</hi> and <hi>Halberds;</hi>
+               </p>
+            </sp>
+            <p> but by and by came a <hi>Gentleman Meſſenger</hi> to Mr. <hi>Rogers,</hi> ſaying, that his <hi>Lord</hi> was at leaſure to ſpeak with him, but the Keeper at the doore ſuffered none to go in with him, ſave whom they liſted. <hi>One</hi> of the <hi>Twelve</hi> that was ſent for, going in with Mr. <hi>Rogers,</hi> a <hi>Guard-man</hi> ſtanding by, took him by the <hi>ſhoulders</hi> in a very <hi>Hoſtile manner,</hi> and tore his <hi>cleak</hi> off his <hi>back,</hi> and abuſed him, but Mr. <hi>Rogers,</hi> and three or four more, went into the <hi>Chamber</hi> where their <hi>Great Maſter</hi> was, to whom ſome of his <hi>Court-Sycophants</hi> had told ſuch <hi>tales,</hi> as they uſed to do, to <hi>juſtifie</hi> themſelves, and complained firſt, which is the <hi>Machiavillian Poli<g ref="char:EOLhyphen"/>cy,</hi> and <hi>Principle,</hi> as if we had intended a <hi>tumult,</hi> which was a thing our ſouls abhorred, and a moſt <hi>impudent</hi> untruth, for there was not one had a <hi>weapon</hi> or <hi>ſtaffe</hi> with them, or ſpake one <hi>un<g ref="char:EOLhyphen"/>civil word;</hi> but after Mr. <hi>Rogers,</hi> with three or four more were brought into the <hi>Room</hi> by <hi>Serjeant Dendy,</hi> the <hi>Great man</hi> had with him <hi>two Gentlemen</hi> more, who ſtood by the <hi>fire-ſide,</hi> and a <hi>Piſtol</hi> lay prepared at the <hi>Window,</hi> where he himſelf at <hi>firſt</hi> was, then he came to the <hi>fire-ſide</hi> in great <hi>Majeſty,</hi> without moving or ſhewing the leaſt <hi>civility</hi> of a man, though all ſtood bare to him, and gave reſpect; by and by he <hi>ſpake,</hi> and bid one call in two or three more of the <hi>Church-Saciety,</hi> or of the <hi>Twelve</hi> that had been with him before, when the <hi>DEMAND</hi> was made; whiles they were gone for them, ſaith he,</p>
+            <sp>
+               <speaker>O.C.</speaker>
+               <p>I ſent for ſome of you; Mr. <hi>Rogers</hi> and ſome more of the <hi>Church,</hi> but you bring with you about 250 <hi>men</hi> to make <hi>tumults</hi> and <hi>riſings;</hi> therefore ſend them away, or I will not <hi>ſpeak</hi> one word,</p>
+            </sp>
+            <p> to which Mr. <hi>Rogers</hi> anſwered, and to give him a civil reſpect, ſaid my Lord,</p>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>You are ruled much by <hi>informations</hi> which you take upon the reports of them about you, whether <hi>true</hi> or <hi>fulſe,</hi> which brings the <hi>Lords people</hi> into ſo much trouble by you, but there is no ſuch <hi>matter.</hi>
+               </p>
+            </sp>
+            <pb n="8" facs="tcp:118775:10"/>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Hi! You will talk I ſee, although it be nothing to pur<g ref="char:EOLhyphen"/>poſe, who ſpeaks to you! with that he turns to one of his <hi>Crea<g ref="char:EOLhyphen"/>tures,</hi> ſaying, <hi>What ſay you,</hi> is there not ſo many?</p>
+            </sp>
+            <p>Servant, <hi>His Servant anſwered yes, and it pleaſe your Highneſſe, there's above</hi> 100. <hi>below, and it is to be feared, they might have made a Tumult.</hi>
+            </p>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>If they muſt be believed, they muſt, yet this I may ſay, I think there are not thirty men that belong to us, and beſides, they are all <hi>peaceable Chriſtians,</hi> related to us in the <hi>Faith</hi> of the <hi>Goſpel,</hi> all unarmed, apprehending your order and command to reach them, and they are onely thoſe with us, as have been this <hi>day</hi> together, ſeeking the <hi>face</hi> of the <hi>Lord,</hi> and now accord<g ref="char:EOLhyphen"/>ing to your <hi>Order</hi> at <hi>four a clock</hi> attending here.</p>
+            </sp>
+            <p>But by this time <hi>Company</hi> was coming in apace into the <hi>room,</hi> 
+               <note place="margin">The Room fills with the Cour<g ref="char:EOLhyphen"/>tiers.</note> at both <hi>doores,</hi> but all were <hi>Court-Creatures,</hi> to the number of fourſcore or more (as we conceive) either of the <hi>Councel,</hi> Ar<g ref="char:EOLhyphen"/>my men, <hi>Lawyers</hi> and <hi>Counſellours,</hi> or of his <hi>Creatures</hi> that were his <hi>Miniſters,</hi> or new made <hi>Gentlemen,</hi> or the like, but not one of them related to Mr. <hi>Rogers,</hi> or that <hi>Church-Society,</hi> till at laſt with much adoe, two or three more were <hi>crowded</hi> in of them, but all the reſt were left waiting <hi>below</hi> in the <hi>Yard,</hi> abuſed, ſcoffed, hiſ<g ref="char:EOLhyphen"/>ſed and whooted at by ſome of the Souldiers, as will appear by and by.</p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>I promiſed to ſend for you, <note place="margin">He begins his long Speech with manifeſt re<g ref="char:EOLhyphen"/>proaching, and mani<g ref="char:EOLhyphen"/>fold un<g ref="char:EOLhyphen"/>truths.</note> for ſome of your <hi>friends</hi> came and ſpake <hi>ſharply</hi> to me, as it I had <hi>Apoſtated</hi> from the cauſe of Chriſt, and <hi>perſecuting</hi> godly <hi>Miniſters,</hi> naming Mr. <hi>Rogers,</hi> and Mr. <hi>Feak,</hi> and ſpake other things that were <hi>ſharp</hi> enough, you might have had patience in your words.</p>
+               <p>Now you have liberty to ſpeak to thoſe things, but do not a<g ref="char:EOLhyphen"/>buſe your liberty, you told me Mr. <hi>R.</hi> ſuffered ſon the <hi>Goſpel,</hi> I told you he ſuffered as a <hi>Railer,</hi> s a <hi>Seducer,</hi> and a <hi>Buſie Body</hi> in o<g ref="char:EOLhyphen"/>ther mens matters, and a ſtirrer up of <hi>ſedition,</hi> which <hi>Rulers</hi> (led by juſt principles) might ſuppreſſ, I told you <hi>Mr. Rogers</hi> ſuffer<g ref="char:EOLhyphen"/>ed juſtly, and not for the <hi>Teſtimony</hi> of <hi>Jeſus Chriſt,</hi> and indeed in ſome degree it is <hi>Blaſphemy,</hi> to call ſuffering for <hi>evil do<g ref="char:EOLhyphen"/>ing,</hi> ſuffering for the <hi>Goſpel,</hi> and if he ſuffers for <hi>Reailing,</hi> and de<g ref="char:EOLhyphen"/>ſpiſing thoſe that <hi>God</hi> hath ſet over us, to ſay this his <hi>ſuffering</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the Goſpel, is making <hi>Chriſt</hi> the <hi>Patron</hi> of ſuch <hi>things,</hi> but
+<pb n="9" facs="tcp:118775:10"/>if it were <hi>ſuffering</hi> for the <hi>Goſpel,</hi> ſomething might have been ſaid, yet not ſo much, as ſaying uncharitably, he ſuffered for evil-doing, ſo that I ſay, this is the thing in Scripture, and if we ſhew you, that you ſuffer for <hi>tranſgreſſion,</hi> then you abuſe that <hi>Scripture</hi> which I have often thought on, that it is <hi>to make a man an offendor for a word:</hi> I wiſh it were better underſtood in the plain<g ref="char:EOLhyphen"/>neſſe of the ſpirit, for to interpret that <hi>Scripture,</hi> it was the <hi>evil</hi> of thoſe <hi>times,</hi> 
+                  <note place="margin">And is it not the evil of theſe Times? ſo that he is condemned out of his own mouth, as in <hi>Luk. 19.22.</hi>
+                  </note> which was to <hi>he</hi> in <hi>wait</hi> for words on purpoſe to catch at <hi>words</hi> without <hi>actions,</hi> and that is a finne, but ſome words are <hi>actions,</hi> and words are conjugall with <hi>actions,</hi> for <hi>actions</hi> and <hi>words</hi> are as ſharp as <hi>ſwords,</hi> and ſuch things I charge you with, and you ſuffer not for the teſtimony of <hi>Jeſus Chriſt;</hi> I ſpeak, God is my <hi>witneſſe,</hi> I know it that no <hi>man</hi> in <hi>England,</hi> does ſuf<g ref="char:EOLhyphen"/>fer for the <hi>Teſtimony</hi> of <hi>Jeſus</hi> 
+                  <note n="*" place="margin">It ſeems when he ſaid ſo, be called God to witneſſe, M. <hi>Rogers</hi> tiffed up his hand and his eyes, ap<g ref="char:EOLhyphen"/>pealing to <hi>witneſſe</hi> al<g ref="char:EOLhyphen"/>ſo, at which <hi>Poſture</hi> he was offend<g ref="char:EOLhyphen"/>ed.</note> nay do not lift up <hi>your hands</hi> and your eyes, for there is no man in <hi>England</hi> which ſuffers ſo; there are thoſe that are far better than Mr. <hi>Rogers,</hi> though compari<g ref="char:EOLhyphen"/>ſons are not good, and not near his <hi>principles,</hi> yet if they ſhould <hi>ſuffer</hi> for the <hi>Teſtimony</hi> of <hi>Jeſus:</hi> But there is ſuch <hi>Liberty,</hi> I wiſh it be not <hi>abuſed,</hi> that no man in <hi>England</hi> ſuffereth for <hi>Chriſt,</hi> and it is not your <hi>Fancy,</hi> you muſt bring ſtrong words to acquaint me of your <hi>ſharp expreſſions.</hi>
+               </p>
+            </sp>
+            <p>After he had ſpake, and all were ſilent, Mr. <hi>Rogers</hi> deſired to <hi>know</hi> of him whom he expected to reply, whether himſelf or ſome other, the anſwer to, who would.</p>
+            <sp>
+               <speaker>Rogers,</speaker>
+               <p>Do you expect me to anſwer, I will promiſe this be<g ref="char:EOLhyphen"/>fore I ſpeak further, I have been twenty ſeven weeks a priſoner, my (brother <hi>Feak</hi> above a year) and there hath been no Charge againſt me; but now I am brought before you, I deſire to know in what capacity I ſtand before you, as a Priſoner, or as a Free<g ref="char:EOLhyphen"/>man, as a <hi>Chriſtian</hi> to a <hi>Chriſtian</hi> with equall <hi>Freedome</hi> that o<g ref="char:EOLhyphen"/>thers have, or as a <hi>ſlave.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O P.</speaker>
+               <p>
+                  <hi>A</hi> Priſoner <hi>is a</hi> Free man, <hi>as Chriſt hath made you</hi> free, <hi>and ſo you are a</hi> Free man.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Its true indeed (my Lord) and yet I muſt ſay, as ſome Gentlemen here preſent know I did before I was <hi>impriſoned</hi>) and when they would have had me meet in <hi>Colemanſtreet</hi> to diſ<g ref="char:EOLhyphen"/>courſe our <hi>Principles,</hi> upon which we ſuffer) that it is unreaſo<g ref="char:EOLhyphen"/>nable to deſire it at the <hi>diſadvantages</hi> we meet with, ſeeing they
+<pb n="10" facs="tcp:118775:11"/>who are our <hi>Antagoniſts</hi> have the advantage of a <hi>Law new made,</hi> 
+                  <note place="margin">Mr <hi>Rogers</hi> told him, that Ordi<g ref="char:EOLhyphen"/>nance ma<g ref="char:EOLhyphen"/>king Trea<g ref="char:EOLhyphen"/>ſon for words was ſuch us <hi>Q. Mary</hi> her ſelf (as bloody as ſhe was) would ab<g ref="char:EOLhyphen"/>hor, as ap<g ref="char:EOLhyphen"/>pears in Hollinſhed in the <hi>1.</hi> year of her reign, which made their Tyranny worſe than the Roman Tyranny.</note> which they call an <hi>Ordinance of Treaſon,</hi> (to laſh us with) as a Maſter hath his rod in his hand <hi>over-awing</hi> his <hi>School-boyes,</hi> ſo that it is a very unjuſt and unequall thing, that they ſhould ſpeak as <hi>Free men,</hi> and we as <hi>ſlaves,</hi> under an over-awing: but if that Law be repealed, though but <hi>pro tempore,</hi> during ſuch debates, and we be reſtored to our juſt and equal liberty with the <hi>Adver<g ref="char:EOLhyphen"/>ſaries,</hi> ſo as to engage on <hi>even ground,</hi> we are ready to argue it with them, when and where they will, but till then it is unrea<g ref="char:EOLhyphen"/>ſonable, for every word we ſpeak, may be a ſnare to us.</p>
+            </sp>
+            <sp>
+               <speaker>O P.</speaker>
+               <p>
+                  <hi>I know not what ſnare may be in this— Are you ſo afraid of</hi> Snares? <hi>what need you fear, that will ſpeak ſo boldly?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>I bleſſe the Lord, I fear them not, nor the force of any men or Devils in theſe <hi>matters</hi> of my <hi>Faith</hi> and <hi>Conſcience,</hi> for which I ſuffer, yet I ſhould be loath to run into <hi>Snares,</hi> which <hi>Diſputes</hi> have been to the people of God; for <hi>Stephen Acts</hi> 6. be<g ref="char:EOLhyphen"/>fore he was tryed for his life, he was firſt <hi>enſnared</hi> by <hi>Diſputes,</hi> and then brought to the <hi>Councel,</hi> tryed and arraigned for his life, and they murthered and deſtroyed him: and in Queen <hi>Maries dayes,</hi> before they put any to death, they begun it cunningly with enſnaring diſcourſes in the <hi>Convocation-houſe,</hi> and ſo gather<g ref="char:EOLhyphen"/>ed <hi>matter</hi> to take their lives away, and murther them.</p>
+            </sp>
+            <sp>
+               <speaker>O P.</speaker>
+               <p>
+                  <hi>You are afraid of</hi> Snares <hi>and advantages taken for your life, when there is no ſuch thing, but I tell you</hi> upon <hi>your</hi> Friends Petition <hi>I ſent for you to ſaisfie them, that you ſuffer, as an</hi> evil-doer.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Say you ſo (my Lord) that is more than ever I heard before, nor dare I take this liberty upon that account of <hi>Petitioning,</hi> for it, but that I believe the Lord will help me by his own Spirit to anſwer, as indeed I have not ſtudied a <hi>Form of words</hi> for you, though you have prepared <hi>Matter</hi> 
+                  <note n="*" place="margin">That they ſeemed to do all this in juſtice, and by ap<g ref="char:EOLhyphen"/>peal and free Courts. At this they were next and look on one another.</note> againſt me (I hear) but I am in the ſtrongth of the <hi>anointing</hi>) ready to anſwer. <note place="margin">
+                     <hi>O.</hi> was troubled at that word, and ſaid Preparation ha! what? but it is well known what for ſeveral dayes were the Informations (ſome lay on the Table) a gathering againſt him, and the priſoners (put in for plotting) had by one <hi>Meaſie</hi> a Charge to get all their papers reade upon the <hi>30.</hi> day of the <hi>11.</hi> month laſt, who were very buſie to get them, and are we bear a gathering more; for when Mr. <hi>Rogers</hi> is forced to preach out at the Window to the Members of the Church, and thoſe that come to bear him, theſe wicked and bloody beast-like men, have liberty to come in<g ref="char:EOLhyphen"/>to a room under him to write what they can catch or forge, or patch together, though all the week long they are in an other room, at the further end of the houſe day and night ſinging, ſwear<g ref="char:EOLhyphen"/>ing, ranting, drinking, fidling, blaſpheming day and night, to go out in the night, yea without a Keeper, to carry on the deſigne.</note>
+               </p>
+            </sp>
+            <pb n="11" facs="tcp:118775:11"/>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Ab we know you are ready enough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, although I have made no other <hi>preparation,</hi> than <hi>Faith</hi> in the promiſes (however ſome may ſcoffe at them) yet I have (I bleſſe the Lord) the comfort of them, and hope I ſhall have the benefit of that promiſe, (which I have the Seal of in my heart) in Mat. 10. <hi>Take no care what to ſay, for in that houre, ſhall it be given unto you;</hi> therefore I doubt not, but to ſpeak to you and them about you, in the <hi>name</hi> of the Lord Jeſus, and in the demonſtration of his <hi>holy Spirit. [be was inter<g ref="char:EOLhyphen"/>rupted.]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Take head you do not abuſe the Scripture, if you be ſuch a</hi> Diſ<g ref="char:EOLhyphen"/>ciple, <hi>then that promiſe ſhall be made good unto you, and then you may ſay, you ſuffer for Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>I doubt not but that will appear, that I am his <hi>Diſciple,</hi> who made me that promiſe, and if we be not able to make it out to unbyaſſed man, that we ſuffer for Chriſt and a good conſci<g ref="char:EOLhyphen"/>ence ſake, by Gods holy word, then chop off my h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad: but in<g ref="char:EOLhyphen"/>deed (my Lord) we can clear it to all the <hi>World,</hi> would they hear us, and not handle us ſo <hi>roughly</hi> as you do, for we have had a very dangerous <hi>paſſage</hi> to you, this day, an <hi>ardua via</hi> through Swords and Halberds.</p>
+            </sp>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>
+                  <hi>Indeed? ſayes he (<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a ſcoffe) and I pray who was</hi> wounded?</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>It was a mercy there were no more hurt, though many were bruiſed, beaten and hurt, and among others my <hi>Wife,</hi> but who the reſt be, (as yet I know not.)</p>
+            </sp>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>
+                  <hi>No ſo I think! but I have no time to diſpute thoſe things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Why then, I ſay, as I ſaid before, my <hi>way</hi> muſt be clear, before I can proceed further, for if they <hi>petitioned</hi> I have done, and dare not anſwer a word on that ground, becauſe I repreſent <hi>thouſands</hi> of the poore <hi>Saints,</hi> who are one with me in this cauſe, whoſe Truſt I cannot, I dare not betray.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Then we have done;—for I tell you, you came here by adeſire, I told them I would put it to the iſſue this meeting, and that I would prove it you ſuffered for</hi> evil-doing.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>That will not be ſo eaſily done, But (my Lord) I ſpeak as I hope, I am a <hi>civil man,</hi> and in ſome meaſure a <hi>rational man,</hi> and
+<pb n="12" facs="tcp:118775:12"/>I truſt through grace, I am a <hi>Chriſtian,</hi> nor doth <hi>Chriſtianity</hi> de<g ref="char:EOLhyphen"/>ſtroy <hi>civility,</hi> and yet I muſt ſay again that I care hither by the <hi>Deſire</hi> or <hi>Requeſt</hi> of my friends. I ſhall not, I will not ſpeak a word any farther, than to tell you my reaſons; For <hi>I</hi> would not have any friend <hi>petition</hi> for me, where in and to whom I can<g ref="char:EOLhyphen"/>not with a good <hi>conſcience</hi> petition for my ſelf, now in the <hi>mat<g ref="char:EOLhyphen"/>ters of faith</hi> and truth for which we ſuffer) we cannot petition to you, for we are not <hi>Debtors</hi> to <hi>man,</hi> but to <hi>God,</hi> who is the <hi>Law giver,</hi> and only <hi>proper</hi> judge therein, and therefore we <hi>petition</hi> to the <hi>Lord Jehovah</hi> our Judge, then 2. If they did ſo, they did not anſwer the truſt, the Church, whereto they are related, <hi>repoſed</hi> in them; for it was ſet upon their hearts as an incumbent point of duty to Chriſt and his Churches to make <hi>Demand</hi> of the Lords priſoners in the <hi>name</hi> of the Lord <hi>Jeſus,</hi> whom you and <hi>your pow<g ref="char:EOLhyphen"/>ers</hi> have ſo <hi>unchriſtianly,</hi> and indeed with <hi>worſe</hi> than <hi>Roman Tyran<g ref="char:EOLhyphen"/>ny</hi> rent and torn from the <hi>Churches,</hi> ſo that if they made a <hi>petition</hi> to you, I am ſilent, and ſhall ſay no more, as I ſaid before.</p>
+            </sp>
+            <sp>
+               <speaker>B.C.</speaker>
+               <p>(One of the Twelve) I ſhall lay open the <hi>whole ſtate</hi> of the <hi>buſineſſe,</hi> for we are intruſted with a <hi>Meſſage</hi> from our <hi>Society,</hi> and did but according to our <hi>truſt,</hi> make the <hi>Demand,</hi> and bear our <hi>Teſtimony,</hi> and made no requeſt at all to you, but when you ſaid, our <hi>Brother Rogers</hi> ſuffered as an <hi>evil-doer,</hi> we ſaid then, why do you not make it appear, and you ſaid, you would on <hi>Friday</hi> or <hi>Tueſday,</hi> and this was <hi>all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Well! Who ſayes it is more? who ſayes you Petitioned? I told you he ſuffered as an</hi> evill doer, <hi>as a</hi> Railer, <hi>as a</hi> Seducer.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>But your words are not <hi>proofs,</hi> my Lord! but yet ſeeing my way is more clear now, I ſhall ſay ſomewhat more: there is no law of God nor yet of man, that makes me ſuch an <hi>Offender:</hi> But yours which is worſe than the <hi>Roman Law</hi> and <hi>Tyranny,</hi> that makes a man a <note n="*" place="margin">See their Ordinance for Treaſon.</note> 
+                  <hi>Traitor</hi> for words.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Who cals you a Traitor? I call you not: ſee, I believe you ſpeak many things according to the Goſpel; but you ſuffer for evil-doing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>The Goſpel of the Kingdome may occaſionable be ſo ac<g ref="char:EOLhyphen"/>counted and judged, for as Chriſt our Saviour ſaith, <hi>I came not to ſend peace but the ſword,</hi> the <hi>doctrine of Chriſt</hi> by the <hi>powers</hi> of the <hi>world</hi> hath ever been <hi>reputed,</hi> ſedition, railing, lying and ſpeaking evill of <hi>dignities.</hi>
+               </p>
+            </sp>
+            <pb n="13" facs="tcp:118775:12"/>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>I grieve that you call this the</hi> goſpel, <hi>for every one is ready to come and ſay, this is the</hi> goſpel, <hi>with words in their mouths; and ſay, this is the meaning of the Scripture; but there wants the power of godli<g ref="char:EOLhyphen"/>neſſe: for Chriſt and his Diſciples will not ſpeak evill of no man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, they did ſpeak againſt <hi>ſinners as ſinners,</hi> which is no <hi>evill ſpeaking:</hi> But who made you the Judge of the <hi>Scriptures</hi> (my bord?) what ever you ſay it ſhall never appear (I truſt) to the Saints, or unbyaſed <hi>diſcerning men,</hi> that I ſuffer as an <hi>evill doer,</hi> what ever you ſay, or ſuppose; I can make it appear, it is an eſſential, Fundamental <hi>Principle</hi> of <hi>Faith,</hi> which is now under <hi>Perſecution,</hi> 
+                  <note place="margin">What the teſtimony is they ſuffer in.</note> and for which we ſuffer, <hi>viz.</hi> The <hi>Kingly Office of Chriſt,</hi> and thoſe that deny that truth (for, &amp; in which we ſuffer) are indeed Here<g ref="char:EOLhyphen"/>ticks (and not we:) It is true, this <hi>preſent teſtimony,</hi> for Chriſts Kingly <hi>Intereſt</hi> hath two parts, <hi>viz.</hi> The Poſitive and the Priva<g ref="char:EOLhyphen"/>tive; now for the laſt it is we ſuffer, and not for <hi>evil-doing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Why, who will hinder you Preaching the Goſpel of Chriſt? yea,</hi> 
+                  <note place="margin">How knows be that, for he hears him not preach?</note> 
+                  <hi>his Perſonal Raign? who will hinder? you ſpeak of high Nations, but you do not</hi> preach <hi>the</hi> goſpel <hi>to build up</hi> ſouls <hi>in Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>I know my Lord, that you are a <hi>Sophiſter,</hi> 
+                  <note n="*" place="margin">With that the Officers and them preſent ſcof<g ref="char:EOLhyphen"/>fed &amp; ſome gnaſhed with their teeth at the Priſoner.</note> and ſo it ſeems for a part of the <hi>truth,</hi> we may preach, but not the whole, not the Goſpel of the kingdom preached for a <hi>Witneſſe,</hi> as Mat. 24.14. to witneſſe againſt the crying ſins of men in power, or out of pow<g ref="char:EOLhyphen"/>er; for that ſeems to ſtrike at your <hi>Intereſt</hi> too much.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Why, what</hi> intereſt <hi>is mine?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>A <hi>worldly intereſt</hi> which God will deſtroy.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Ha!— and do you judge me?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, by the <hi>word of the Lord</hi> in the maj<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſty, might, ſtrength, power, vigour, life and <hi>Authority</hi> of the <hi>Holy Ghoſt,</hi> I can do, and dare. <hi>Judge</hi> you and your <hi>actions,</hi> 1 Cor. 2. The <hi>ſpiritual man jugdeth all things, whileſt he himſelf is judged of no man;</hi> Beſides, I am called by the Holy Ghoſt, which hath appointed me to preach the Go<g ref="char:EOLhyphen"/>ſpel to judge ſins.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>And who will hinder you to preach the Goſpel, or to do ſo? ſpeak againſt</hi> Sin <hi>as much as you will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>You do from <hi>preaching</hi> that part of the Goſpel which de<g ref="char:EOLhyphen"/>cries the publike ſins of the times or of men in <hi>Powers, Armies, &amp;c.</hi> neither is it as you ſay, a rayling, lying, or ſpeaking evill of <hi>dig<g ref="char:EOLhyphen"/>nities;</hi> for the word <hi>rayling</hi> in <hi>Jude</hi> 9. is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, now this is
+<pb n="14" facs="tcp:118775:13"/>no <hi>blaſphemy</hi> to ſpeak the truth or againſt evils, nor is it <hi>railing</hi> to call a man as he is, to call a <hi>drunkard,</hi> a <hi>drunkard,</hi> is no <hi>rayling;</hi> to call a <hi>Whore-maſter,</hi> 
+                  <note place="margin">What ſort of informers will ſerve against <hi>5<hi rend="sup">th</hi>
+                     </hi> Monarchy-men.</note> a <hi>Whore-maſter,</hi> is no <hi>rayling;</hi> to call a <hi>Thief,</hi> a <hi>Thief,</hi> to call an <hi>Apoſtate,</hi> an <hi>Apoſtate,</hi> is no <hi>rayling;</hi> but to call <hi>one</hi> ſo, that is not ſo is <hi>rayling.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>To call an</hi> honeſt man <hi>a thief is</hi> rayling, <hi>to call an honeſt man a</hi> Whore-maſter <hi>is</hi> rayling; <hi>though I do know you have</hi> truths <hi>of Chriſt in you, yet I will prove you ſuffer for</hi> rayling, <hi>lying, and as</hi> a rai<g ref="char:EOLhyphen"/>ſer <hi>of</hi> ſedition; <hi>and I told them that I would have you ſent<note n="*" place="margin">He ſaid there was no ſuch word in his Speech, but ſee it <hi>p. 13. It is ſome ſatis<g ref="char:EOLhyphen"/>faction, if a Common<g ref="char:EOLhyphen"/>wealth muſt periſh that it pe<g ref="char:EOLhyphen"/>riſh by men and not by the hands of perſons, (ſpeaking of the plot<g ref="char:EOLhyphen"/>ters)</hi> differ<g ref="char:EOLhyphen"/>ing little from beaſts.</note> for, to ſa<g ref="char:EOLhyphen"/>tisfie them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>If that you ſay, can be made to appear, it is fit I ſhould ſuffer; but as <hi>Reygnold</hi> ſaid, <hi>Nihil eſt quin male interpretando poſſit de<g ref="char:EOLhyphen"/>pravari.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>This will appear in the</hi> Informations <hi>that are upon the Table there, what a rayler you are; and therefore let them be read (ſayes he to ſome by him) for there be many of them, the Witneſſes and the Evidences all are ready, it will appeare eaſily, and out of the Priſon ſuch Informati<g ref="char:EOLhyphen"/>ons, Evidences there are brought in, let them be read.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Your <hi>Informations</hi> will not make it appear (ere the more) to <hi>juſt men:</hi> I looked to have had a <hi>fair tryal</hi> or a Chriſtian debate; But this is otherwiſe, ſeeing <hi>men</hi> that are hired or any other wayes <hi>baſely ſuborned</hi> do inform againſt me: as for them out of Priſon, it is a ſigne that your cauſe is not very good, that needs ſuch Informers; as the Priſoners at <hi>Lambeth,</hi> they are ſuch as you your ſelf have put in for <hi>plotting</hi> againſt you, left they ſhould cut your <hi>Throat,</hi> and of whom you (your ſelf) have ſaid in your laſt <hi>Speech,</hi> that they differed little from <hi>Beaſts,</hi> 
+                  <note n="*" place="margin">Meaning, now ano<g ref="char:EOLhyphen"/>ther Paper of informa<g ref="char:EOLhyphen"/>tions of what was preached at <hi>Thomas A<g ref="char:EOLhyphen"/>poſtles,</hi> that alſo lay up<g ref="char:EOLhyphen"/>on the Ta<g ref="char:EOLhyphen"/>ble with the other out of <hi>Lam<g ref="char:EOLhyphen"/>beth</hi>-priſon At whoſe confidence Mr, <hi>Rogers</hi> with admi<g ref="char:EOLhyphen"/>ration lift<g ref="char:EOLhyphen"/>ed up his eys &amp; hands</note> and yet you can take their <hi>Informations</hi> againſt me, yea, drunkards, ſwearers, <hi>whoremongers,</hi> Cavaliers, <hi>Ranters,</hi> any men that make nothing to <hi>lye,</hi> ſwear, <hi>drink,</hi> curſe and banne, whore and <hi>blaſpheme,</hi> day and night, and what not? and yet theſe muſt inform againſt me to take away my <hi>Life,</hi> theſe are but bad <hi>Evidences</hi> (my Lord) and beſides, were they <hi>honeſt men,</hi> it were <hi>illegal.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Nay they are</hi> honeſt, <hi>godly</hi> men <hi>that mourn over you, and that are troubled for you, that will</hi> witneſſe <hi>theſe things againſt you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>I hardly believe <hi>honeſt men</hi> will accept of ſuch an <hi>office,</hi> to inform againſt the poor <hi>people</hi> of God, and to ſeek the <hi>blood</hi> of any one of <hi>Chriſts</hi> little <hi>ones,</hi> but <hi>I</hi> rather believe, they are ſome of your
+<gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:118775:13"/>
+                  <hi>hired men,</hi> who <hi>ſeek</hi> for any <hi>ſtuffe</hi> to gratifie your <hi>Ears;</hi> But might I but ſtand on <hi>even ground</hi> with equal <hi>freedome,</hi> I would undertake to any <hi>unbiaſſed</hi> Chriſtian to make it appear that the ſubject mat<g ref="char:EOLhyphen"/>ter of our ſuffering for the truth and teſtimony of <hi>Jeſus</hi> (our in<g ref="char:EOLhyphen"/>firmities excepted, which the Lord knows are many) and there<g ref="char:EOLhyphen"/>fore we muſt <hi>overcome</hi> by the <hi>blood</hi> of the <hi>Lamb,</hi> and the <hi>word</hi> of the <hi>Teſtimony,</hi> Rev. 12.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Nay, but I know you well enough, I know you, and what your</hi> princi<g ref="char:EOLhyphen"/>ple <hi>is too, I know you that you never preached the</hi> Covenant of <hi>Grace, yea, I know it, I have had ſome diſcourſe with you formerly, I know you are ignorant of the Covenant</hi> 
+                  <note n="*" place="margin">This being ſpoken in ſuch confu<g ref="char:EOLhyphen"/>ſion of o<g ref="char:EOLhyphen"/>thers, &amp; the Great mans heat toge<g ref="char:EOLhyphen"/>ther, he was hardly heard but onely of them who stood nigh and wrote. One of his Courtiers made an<g ref="char:EOLhyphen"/>ſwer, but he went on in his heat.</note> 
+                  <hi>nay for all your lifting up your eyes, it is ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>That is <hi>ſtrange</hi> you ſhould judge ſo; my condition were uncomfortable then indeed, if I did not know the <hi>Covenant</hi> of <hi>grace,</hi> yea, <hi>fruition,</hi> whiles it may be ſome, have a <hi>National</hi> diſcipli<g ref="char:EOLhyphen"/>nary or barely <hi>intuitive knowledge,</hi> there be many can teſtifie whe<g ref="char:EOLhyphen"/>ther I am ſo <hi>ignorant</hi> or no of the Covenant (of <hi>Chriſt</hi>) who have been my hearers long ago, it is for a <hi>branch,</hi> yea a <hi>principal branch</hi> of the <hi>New Teſtament-Covenant,</hi> that we are perſecuted as <hi>Acts</hi> 2.30. <hi>viz.</hi> that <hi>part</hi> that God hath <hi>ſworn unto,</hi> to <hi>exalt Chriſt</hi> over all his <hi>enemies,</hi> and to make him <hi>King</hi> over al <hi>Nations;</hi> this <hi>Covenant</hi> of the <hi>Father</hi> to the <hi>Son,</hi> makes us grapple with the <hi>Beaſt,</hi> and conteſt ſo as we do with the <hi>Powers</hi> of the <hi>world,</hi> though others are igno<g ref="char:EOLhyphen"/>rant of the <hi>Covenant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Nay I tell you I know you well enough, and I know your</hi> principles <hi>though you are but a</hi> young man, <hi>yet you have been in many</hi> places, <hi>and are known well enough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, I am ſo I hope, known of <hi>Chriſt</hi> too, and amongſt o<g ref="char:EOLhyphen"/>ther places, I have been in the <hi>Field</hi> too againſt the <hi>common enemies,</hi> (that are now gotten ſo high again) where (I think) I have done more for nothing, in meere conſcience for the Lord Chriſts ſake, (never ſeeking wages, as your mercenary men) than any of your Colonels can ſay. <note n="*" place="margin">Raiſing men, arming himſelf and others, inga<g ref="char:EOLhyphen"/>ging in the field in Eng<g ref="char:EOLhyphen"/>land and Ireland ſpending his eſtate, Kil<g ref="char:EOLhyphen"/>ling his cat<g ref="char:EOLhyphen"/>tel, for the Army freely expoſing his perſon to great dangers freely.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>You talk of that is nothing to the purpoſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Kiffen.</speaker>
+               <p>I cannot ſee my Lord, there will be any danger to have thoſe <hi>papers</hi> read, we deſired to hear how it appears that Mr. <hi>Ro.</hi> ſuffers as an <hi>Evil doer,</hi> and if it pleaſe your Highneſſe, let thoſe in<g ref="char:EOLhyphen"/>formations be read, that are brought in there, that we may hear how it appears as your <hi>Highneſſe</hi> ſayes.</p>
+            </sp>
+            <pb n="18" facs="tcp:118775:14"/>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Ah! ſo I ſay, let them be read.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>My Lord, <note place="margin">Which Gen<g ref="char:EOLhyphen"/>tleman was Mr. <hi>Kiffen,</hi> who ſince with ſome of his Mem<g ref="char:EOLhyphen"/>bers) hath ſlandered him behind his back.</note> that <hi>Gentleman</hi> ſpake very <hi>ſmoothly,</hi> but we know now by <hi>experience,</hi> the greateſt <hi>Snares</hi> are couched under the <hi>ſmoo<g ref="char:EOLhyphen"/>theſt words;</hi> ſo there is a great <hi>Snares</hi> in his for he deſires them to be read, that they may judge therby whether I be an <hi>Evil-doer</hi> or not; ſo that I thank the <hi>Gentleman</hi> for his <hi>charity,</hi> he ſeems beforehand reſolved to judge me according to them, whther right or wrong, true or falſe, or whatever they be, and whoever informs, and whether they can be proved or no againſt me, but I perceive by him he is ſome mercenary man, that hath ſome dependence upon you, and from ſuch I look for no other: But the moſt (my Lord) that can be ſaid againſt me, is but an evil-<hi>ſpeaker</hi> (which by Gods aſſiſtance I truſt in this matter, ſhall never be proved a<g ref="char:EOLhyphen"/>gainſt me neither) and not an <hi>Evil doer,</hi> for not withſtanding your former words, I can prove that the very heathens themſelves abhorred to make words matter of fact as you do.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>It is matter of</hi> fact <hi>you are queſtioned for,</hi> 
+                  <note place="margin">Mark it out of his own mouth.</note> 
+                  <hi>for ſpeaking evil of Authority, raiſing falſe accuſations; or if they were as</hi> Nero, <hi>you are not to ſpeak evil of them, for what hath the</hi> Devil <hi>his</hi> Name <hi>for, but becauſe he is an accuſer of the Brethren, and it is not for your good deeds that you are puniſhed, for what ſaith Chriſt, for which of my</hi> good deeds do you puniſh me, <hi>and ſo you ſay, but you ſhall hear if theſe be read, whether it be for your good deeds, or for</hi> evil-doing.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>And as they anſwered <hi>Chriſt</hi> then, ſo do you us, it was not for his good deeds they would ſtone him, but for his <hi>blaſphemy,</hi> and ſo pretended to do it legally, for the Law would have a <hi>blaſ<g ref="char:EOLhyphen"/>phemer</hi> ſtoned, but that which they called <hi>blaſphemy</hi> was indeed the <hi>truth,</hi> and <hi>good,</hi> and ſo it is now, what you call <hi>evil</hi> is <hi>good</hi> and the <hi>Devil</hi> (my Lord) hath his name from <hi>calumniating,</hi> ſlandering and <hi>lying,</hi> and accuſing the <hi>good</hi> 
+                  <note n="*" place="margin">So that the accuſers of she good and grace of God is on that ſide by the informers and perſe<g ref="char:EOLhyphen"/>cutors.</note> or <hi>grace</hi> of God, but not for ac<g ref="char:EOLhyphen"/>cuſing <hi>evil,</hi> or declaring againſt <hi>ſin,</hi> the evils of <hi>Apoſtacy,</hi> perſecuti<g ref="char:EOLhyphen"/>on or the like, but if you will read the <hi>Articles</hi> you may, yet ex<g ref="char:EOLhyphen"/>pect not a word of anſwer from me, unleſſe it be in an open and legal <hi>Court,</hi> before a competent and <hi>fit Judge,</hi> which you are not (my Lord) nor thoſe about you, but thoſe things which are my <hi>due Right</hi>) granted I am ready to anſwer them in <hi>Weſtminſter-Hall,</hi> (where I believe the <hi>Lords remnant</hi> who are one with me in this <hi>cauſ</hi> will ſtand by me) and at laſt you can have but a poor <hi>carcaſſe</hi>(that
+<pb n="19" facs="tcp:118775:14"/>is every day dying) yet I am reſolved (with the help of God) not to throw a way my life, nor to betray this <hi>bleſſed cauſe,</hi> ſo as to an<g ref="char:EOLhyphen"/>ſwer to I know not what <hi>Spurious and forged informations,</hi> or <hi>charge</hi> in a <hi>Chamber,</hi> (grounded on malice, or that which is worſe) nor will I be tried in <hi>Hugger-mugger,</hi> but if I have offended, it is fit I ſhould have <hi>open Juſtice.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Who</hi> tries <hi>you? and who ſayes it is a Charge? who calls it a charge? I ſay not ſo, and ſee! before you bear them, you call them</hi> Spurious</p>
+            </sp>
+            <p> [with that he takes up one that was titled from <hi>Lambeth,</hi> and was go<g ref="char:EOLhyphen"/>ing to read ſomewhat.] <note place="margin">One <hi>Abdy</hi> the chief in<g ref="char:EOLhyphen"/>former, that very day be came with his Keeper to look for his reward he was ſtab<g ref="char:EOLhyphen"/>bed in <hi>Fleet<g ref="char:EOLhyphen"/>ſtreet,</hi> being impriſoned — for Blaſphe any, Adultery Ranting, Atheiſme, and the moſt horrid ſins that ever were beard of.</note>
+            </p>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Yea, and I have good grounds ſo to do, ſeeing they come from ſuch kind of <hi>Informers</hi> as they are.</p>
+            </sp>
+            <p> Then <hi>O.P.</hi> read one <hi>Article</hi> from <hi>Lambeth,</hi> as that he ſhould call him <hi>Oliver Cromwel,</hi> that great <hi>dra<g ref="char:EOLhyphen"/>gon</hi> that fits at <hi>Whitehall</hi> pull him cut, <hi>&amp;c.</hi>
+            </p>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>There is ſuch ſtuffe as I abhor to have in my mouth, but I ſhall for bear to anſwer, and for that it is not worth the anſwer<g ref="char:EOLhyphen"/>ing to.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Theſe things will be proved.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.H.</speaker>
+               <p>(One of the Twelve,) We deſire the things our <hi>Brother Ro<g ref="char:EOLhyphen"/>gers</hi> ſuffers for may be <hi>publickly known</hi> to all, for we apprehend he ſuffers for the <hi>Truth,</hi> and the things which you hear, you may that be miſinformed in.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Therefore let me have a fair Hearing in a <hi>legal Court,</hi> and I hope the <hi>Lord</hi> wil make me ready for what ever I muſt <hi>ſuffer</hi> right or wrong, if it muſt be ſo, but yet I tell you <hi>my Lord,</hi> I fear not any <hi>thing</hi> that you can lay againſt me <hi>juſtly</hi> and <hi>honeſtly,</hi> but the truth is, you take up any thing, that your <hi>Informers</hi> can handſomely <hi>patch</hi> together, who like the <hi>devil</hi> take a <hi>bit</hi> here, and a <hi>bit</hi> there (that makes for their turn) and you take it (as it lies) for <hi>granted</hi> preſently. O my Lord I cannot but mourn for you, and your <hi>con<g ref="char:EOLhyphen"/>dition,</hi> which is ſad and to be <hi>bewailed,</hi> and the rather, for that you have ſo <hi>many</hi> about you, who for their own ends, to get the world into their hands, do deceive you, but the <hi>Lord will judge righteouſly</hi> (ere long) I am <hi>ſure,</hi> and let <hi>appear</hi> whether you or we have the <hi>beſt bottome</hi> to <hi>bear</hi> us up, for I bleſſe the <hi>Lord</hi> the <hi>comforter is with me!</hi> I think my <hi>condition</hi> (through grace) though a poor <hi>priſoner</hi> a great deal better than yours, I would not <hi>change</hi> with you.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Well, well you are known well enough, and what ſpirit you are of,</hi>
+                  <pb n="20" facs="tcp:118775:15"/>we know you, and to call your <hi>ſufferings</hi> for <hi>Chriſt,</hi> when they are for <hi>evil-doing</hi> is not wel, yea it is <hi>blaſpemy,</hi> yea I ſay <hi>blaſphemy</hi> again, (for all your <note n="*" place="margin">M. <hi>Rog.</hi> a<g ref="char:EOLhyphen"/>mazed at ſuch langu<g ref="char:EOLhyphen"/>age again lifted up his band and eys towards heaven, ap<g ref="char:EOLhyphen"/>pealing to God to judg righteouſly.</note> 
+                  <hi>lifting</hi> up of your eys) and I tell <hi>you,</hi> yea <hi>you,</hi> that in a <hi>good box</hi> of <hi>ointment,</hi> a little thing, a <hi>dead flie</hi> may ſpoil all, yea a <hi>little flye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>I dare not (my Lord) <hi>juſtifie</hi> my ſelf in my <hi>infirmities,</hi> but I bleſſe the Lord I can apply <hi>Chriſts merits;</hi> I beſeech you ſpeak not ſo reproachfully of the <hi>ſpirit</hi> of <hi>God,</hi> to call it <hi>fanatick</hi> or an <hi>evil<g ref="char:EOLhyphen"/>ſpirit,</hi> for that is <hi>blaſphemy</hi> ſo to do, (&amp; ſee <hi>Iſa.</hi> 63.10.) neither call <hi>evil good</hi> or <hi>good evil,</hi> for that is prevarication, <hi>Iſa.</hi> 5.20. that which you judge <hi>Evil-doing,</hi> the Lord judgeth <hi>well doing</hi> and my <hi>duty,</hi> yet I muſt tell you the <hi>Lord</hi> never <hi>made</hi> you a <hi>Judge over</hi> our <hi>Faith,</hi> nor of his <hi>Scripture</hi> whereof you take upon you.</p>
+            </sp>
+            <sp>
+               <speaker>O P.</speaker>
+               <p>
+                  <hi>Well, you know that the time was, there was no great</hi> difference <hi>betwixt you and me; I had you in my ey, and did think of you for</hi> imploy<g ref="char:EOLhyphen"/>ment <hi>(and preferment) you know it well enough.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>True my <hi>Lord!</hi> and then you could ſay to me, you thought no man in <hi>England</hi> ſo fit, but ſince, the caſe is altered indeed; but I pray conſider, who it is, is changed: ſurely, it muſt be <hi>conſcience</hi> that makes me ſuffer then: through ſo many <hi>temptations,</hi> as I have met with: and I have often ſaid, let me be <hi>convinced</hi> by good words, that I am an <hi>Evil-doer,</hi> as you ſaid; and I would lay my <hi>Neck</hi> under you <hi>feet</hi> for mercy; but till then, I muſt keep my <hi>con<g ref="char:EOLhyphen"/>ſcience.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>One of the Grandees</hi> (as we take it, it was <hi>G. Desborough</hi>) ſaies, let the <hi>Informations</hi> be read, let them be <hi>heard;</hi> and then <hi>Scobell</hi> was called to read them (not thoſe from <hi>Lambeth,</hi> but) thoſe that were *brought in from <hi>Tho. Apoſtle,</hi> 
+               <note place="margin">The Infor<g ref="char:EOLhyphen"/>mations from <hi>Tho. Apoſtles</hi> read.</note> from what Mr. <hi>Rogers</hi> prayed, what he preached, and what they ſang in <hi>Hymnes,</hi> what he prayed, was for the <hi>Priſoners</hi> of the <hi>Lord</hi> at <hi>Winſor,</hi> and againſt the <hi>Tyranny</hi> of all <hi>Antichriſtian Powers,</hi> and to that purpoſe; and that God would haſten his <hi>Vials,</hi> out upon them. What he <hi>preached</hi> was out of <hi>Mat.</hi> 5. <hi>Agree with thine</hi> adverſay <hi>(Chriſt) quickly;</hi> 
+               <note place="margin">The Articles againſt Mr <hi>Ro,</hi> as well as they could be ta<g ref="char:EOLhyphen"/>ken.</note> 
+               <hi>and be</hi> obſerved, <hi>Appoſtate<g ref="char:EOLhyphen"/>adulterate profeſſors muſt agree quickly with Chriſt their Adverſary:</hi> ap<g ref="char:EOLhyphen"/>plying it to the <hi>preſent Powers</hi> as ſuch; proving they break the 10. <hi>Commandements:</hi> As the 1. <hi>In ſetting up Idols again, a golden</hi> Calf; <hi>ſo the</hi> Army <hi>and fleſhly ſtrength and the like are idolized, whileſt men ſay theſe are the gods that brought us up out of Egypt.</hi>
+            </p>
+            <pb n="21" facs="tcp:118775:15"/>
+            <p n="2">2. Command. <hi>is, Graven images,</hi> and ſo are the <hi>Tryers, and high Court Commiſſioners, ſuch the inventions and graven images of mens ma<g ref="char:EOLhyphen"/>king, with their Seals, Parchments, black boxes, and pick-locks,</hi> 
+               <note n="*" place="margin">Theſe Ar<g ref="char:EOLhyphen"/>ticles are many of them ſalſ for matter and form, as can be made appear by hundreds.</note> 
+               <hi>Padlocks, and Keys, for your Hog-ſties, Pig ſties, and Gooſe-ſtals.</hi>
+            </p>
+            <p n="3">3. Command. Take not my name in <hi>vain, &amp;c. Such as have broke all their Declarations, Ingagements, and abuſed his Attributes, uſing that name of God, for their own ends, are guilty of this.</hi>
+            </p>
+            <p n="4">4. Command. Remember that thou keep holy the, <hi>&amp;c. ſpeaking of ſoul-reſt, and ſaying, that the preſent Powers, kept not the Sabbath, that reſted in their pleaſures, ſleſh, &amp;c. and not in Chriſt, but did their own work.</hi>
+            </p>
+            <p n="5">5. Command. Honour thy father and mother, <hi>&amp;c. They brake this commandement in their diſobedience to God the heavenly Father.</hi>
+            </p>
+            <p n="6">6. Thou ſhalt not murther, <hi>&amp;c. Murtherers are of many ſorts, ſuch as have betraied the Blood that hath been ſhed againſt this kind of Govern<g ref="char:EOLhyphen"/>ment, &amp;c.</hi> And then he converted his diſcourſe againſt <hi>Informers</hi> that come for <hi>blood,</hi> &amp; ſaid, <hi>to hate a brother without a cauſe is murder.</hi>
+            </p>
+            <p n="7">7. Thou ſhalt not commit adultery, <hi>&amp;c. This they did with others, as Army, Lawyers, Prieſts intereſt, and that which they before deſtroyed.</hi>
+            </p>
+            <p n="8">8. Steal not. <hi>Now there are great thieves, and little thieves; great ones are now in preſent Powers, and</hi> Army thieves, Clergy thieves, Lawyers thieves, <hi>and the</hi> great thief <hi>now in</hi> White-hall. But the o<g ref="char:EOLhyphen"/>ther two he left to another time: <hi>When he had done, he read a</hi> Letter <hi>from</hi> Mr. Feak, <hi>where was a</hi> Dialogue <hi>between him and the</hi> Governor, <hi>and then he commented upon it: and ſaid,</hi> It is worſe now then it was with the Romans, for then <hi>Paul</hi> might preach, though a Priſoner, but now we are <note n="*" place="margin">Now is Mr. <hi>Rogers</hi> forced to preach out at the iron bars of the priſon on <hi>Lordſdaies.</hi>
+               </note> denied it. <hi>After that he ſung an Hymne and the peo<g ref="char:EOLhyphen"/>ple joyned with great</hi> alacrity) <hi>againſt oppreſſion and perſecution, &amp;c.</hi>
+            </p>
+            <p>After this <hi>Information</hi> was read, Mr. <hi>Rogers</hi> ſaid, My Lord, I had a purpoſe not to anſwer one word hereto, this being no <hi>ſutable place</hi> or <hi>time</hi> to <hi>anſwer</hi> a <hi>charge,</hi> and no <hi>witneſſes</hi> appearing againſt me to make it good; but yet I ſhall tell you this, for I will not (with the Lords help) ſpeak a word but what I will own to your face; for I love to appear in the <hi>ſincerity</hi> of my ſoul and conſcience, for my Lord and Maſter <hi>Jeſus Chriſt</hi> plain to all men; and to lay open my <hi>principles</hi> which I have no cauſe (though grace) to be <hi>aſhamed</hi> of, the <hi>matter</hi> of this is much of it true: but as to the <hi>form,</hi> there is a great deal of <hi>patching</hi> &amp; <hi>botching</hi> put in by your <hi>mercenary hirelings,</hi> which I will not own, but as to much of the <hi>matter</hi> of it, I muſt dare, and
+<pb n="22" facs="tcp:118775:16"/>with the <hi>Lords grace</hi>) I will, though I dy for it, and without you ſhould <hi>cut</hi> my <hi>tongue</hi> out of my head, I ſhal continue the teſtimony up, and tell you moreover (with the reſt about you here) that I re<g ref="char:EOLhyphen"/>gard your <hi>laws</hi> in the <hi>matters</hi> of my God no more than <hi>ſtraws,</hi> for <hi>Imperia Divina non ſunt ſubjecta Magiſtratui,</hi> ſaith one of the <hi>Martyrs,</hi> and tell you, that I will not be <hi>accomptable</hi> to the <hi>Magiſtrate,</hi> nor ſubmit to his <hi>judgment</hi> in the <hi>matters</hi> of my <hi>Faith,</hi> which the <hi>Civil law</hi> can take no due <hi>cognizance</hi> of.</p>
+            <p>
+               <hi>One of his Councel ſaid,</hi> Ha! <hi>Imperia Divina.</hi>
+            </p>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>So I ſay, <hi>Imperia Divina.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Saith he, are theſe</hi> ſpurious Articles <hi>now? put in by drunkards, and ſwearers, and whoremongers too? are they not? Ha!—Ha!</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>My Lord, <note place="margin">They would fain have ſhiſted off them from <hi>Lambeth</hi> (as it ſeems) as if they were aſha<g ref="char:EOLhyphen"/>med of them.</note> I know what I ſay? Thoſe which were ſent from <hi>Lambeth,</hi> put in by the <hi>Priſoners</hi> there, thoſe I ſay: a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſuch, I did not ſay all, but thoſe that I ſee there, which lie upon the <hi>Table</hi> titled from <hi>Lambeth;</hi> and beſides, there is <hi>Serjeant Dendy</hi> knows this, that I ſay for hehimſelf (I thank him) ſent in their <hi>Informations</hi> againſt me to M. <hi>Thurloe,</hi> which he cannot deny. S. Dendy, <hi>I delivered him none my Lord. Ro.</hi> I ſay not, you <hi>delivered</hi> them, but you ſent them by your <hi>man,</hi> who delivered them according to your directions.</p>
+            </sp>
+            <sp>
+               <speaker>S. Dendy</speaker>
+               <p>
+                  <hi>But my Mother, my Lord, this was my Mother, for ſhe Cate<g ref="char:EOLhyphen"/>chized me, my Lord, and I told her.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker> Ro.</speaker>
+               <p> So that is true, as I ſaid before, that thoſe from <hi>Lambeth-priſon</hi> are <hi>ſpurious, wicked</hi> &amp; illegal.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cre.</hi>
+               </speaker>
+               <p>Pray, my Lord, let M. <hi>Rogers</hi> have a <hi>copy</hi> of his <hi>charge,</hi> for the <hi>law</hi> allows it him.</p>
+            </sp>
+            <sp>
+               <speaker> O.P. </speaker>
+               <p>
+                  <hi>No, this is not his tryal.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p> Why then, let me have it as you are a <hi>Chriſtian,</hi> for is it fit I be denied a ſight of my accuſation againſt me?</p>
+            </sp>
+            <p> 
+               <hi>[but be turned away and would not hear.]</hi>
+            </p>
+            <sp>
+               <speaker>M.Cre.</speaker>
+               <p>
+                  <hi>Then, my Lord, let us, have</hi> liberty <hi>of</hi> conſcience; <hi>will you not give us ſo much</hi> liberty <hi>as the</hi> Parliament <hi>gave?</hi> 
+               </p>
+            </sp>
+            <p> [with that he turn'd about in anger]</p>
+            <sp>
+               <speaker> O.P.</speaker>
+               <p> 
+                  <hi>I tell you, there was never ſuch</hi> liberty of conſcience, <hi>no, never ſuch liberty ſince the dayes of</hi> 
+                  <note n="*" place="margin">He confeſſed that Anti<g ref="char:EOLhyphen"/>chriſts go<g ref="char:EOLhyphen"/>vernment is now up in <hi>England,</hi> yet ſo that no wonder the Priſons are ſo full of precious Saints.</note> Antichriſt <hi>as is now; for may not men</hi> preach <hi>and</hi> pray <hi>what they will? And have not men their</hi> liberty <hi>of</hi> all opinions?</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>  It is true, there is <hi>liberty</hi> e<g ref="char:EOLhyphen"/>nough, and too much too, for <hi>drunkards, ſwearers,</hi> and men of vile <hi>debauched principles</hi> and <hi>evil lives, Common-prayer-men,</hi> and ſuch like (we know) round the <hi>Nation.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi> [then his creatures about him ſcoffed.]</hi>
+            </p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Ha!—Are Drunkenneſſe, Swearing, opinions then?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker> Ro.</speaker>
+               <p> I ſay not ſo, but I ſay, ſuch men may have their opinions whiles we are
+<pb n="23" facs="tcp:118775:16"/>
+                  <hi>perſecuted</hi> for the <hi>truth.</hi> But why do you not my Lord, let out my brother <hi>Feak</hi> at <hi>Windſor,</hi> with my ſelf (ſeeing we ſuffer in <hi>one cauſe,</hi> for one teſtimony, and (I truſt) by one <hi>Spirit</hi> of <hi>Jeſus Chriſt</hi>) let us both out to anſwer for our ſelves joyntly together? and to make it appear to all <hi>unintereſſed Chriſtians,</hi> that we are no <hi>evill doers,</hi> in the matters we ſuffer for, which if we do not then, let us ſuffer.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>  
+                  <hi>M</hi> Feak, <hi>truly M</hi> Feak, <hi>(I think) leſſe evill may be ſaid of him than of you: but there are many of different opinions, that come to me, and they know they have all their liberty of their opinions. </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p> Yea, every man almoſt that talks with you, is apt to think you of his opini<g ref="char:EOLhyphen"/>on, my Lord, what ever he be? </p>
+            </sp>
+            <p>[<hi>his creatures ſcoffed again.</hi>
+            </p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>  
+                  <hi>Nay, you</hi> 
+                  <note n="*" place="margin">But ſome of that opi<g ref="char:EOLhyphen"/>nion do, as Mr. <hi>T.G.</hi> and others,</note> 
+                  <hi>do not (ſaith he) in anger?</hi>
+               </p>
+            </sp>
+            <p>
+               <hi> [his creatures ſcoffed and laughed again.]</hi>
+            </p>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Some of this Judgment do, think you ſo, although as I ſaid before the the <hi>Privative</hi>—(or negative) part of the <hi>Teſtimony</hi> you cannot bear.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p> 
+                  <hi>Piſh! here is a deal of</hi> poſitive <hi>and</hi> privative to <hi>ſhew you are a Scholer, and 'tis well known what you are, and where do you find that</hi> diſtinction? <note place="margin">They thought Mr. <hi>Rogers</hi> to be an antick, becauſe he ſpake in power and goeat zeal.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>  In <hi>Logick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p> Ha!</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>  I muſt tell you in the <hi>Name</hi> of the <hi>Lord Jehovah</hi> that your <hi>condition</hi> is very <hi>deſpe<g ref="char:EOLhyphen"/>rate,</hi> and if you conſult the <hi>holy oracles,</hi> you will <hi>find</hi> it for the next <hi>vial</hi> which is to be poured out, is the <hi>ſcorching hot one,</hi> and muſt fall upon the <hi>Apoſtate profeſſours</hi> that have forſaken and <hi>betrayed</hi> the <hi>cauſe</hi> of <hi>Chriſt,</hi> and look to it, it is like to fall heavy upon your <hi>heads,</hi> and thoſe that are <hi>about you,</hi> I pray, think of that in <hi>Hoſea</hi> 1.4. the <hi>blood of</hi> Jezreel <hi>ſhall be upon the houſe of</hi> Jehu, though <hi>Jehu</hi> did obey the <hi>Lord</hi> in doing Juſtice on <hi>Ahab</hi> and <hi>Jezabel,</hi> yet be<g ref="char:EOLhyphen"/>cauſe he fell into the ſame <hi>predicament</hi> of <hi>ſin,</hi> walking in the <hi>ſame ſteps</hi> of <hi>evil</hi> which <hi>Ahab</hi> walked in (the very blood of <hi>them</hi> ſell upon his head.</p>
+            </sp>
+            <sp>
+               <speaker> O.P. </speaker>
+               <p>
+                  <hi>Your ſpirit is to</hi> Judge, <hi>but I regard not your</hi> words, look you to your <hi>Conſcience,</hi> and I will look to <hi>mine,</hi> yet for that of <hi>Jehu,</hi> Why, what was that for? it was for fear leſt the <hi>people</hi> ſhould go <hi>back</hi> again to the Houſe of <hi>David</hi> (and ſo he was running into the ſtory of <hi>Jeroboam</hi>) and to <hi>Jeruſalem,</hi> but he was corrected. Then <hi>Kiffen</hi> ſaid, it is ſo, then ſaid Mr. <hi>Rogers</hi> it is not ſo of <hi>Jehu,</hi> but of <hi>Jeroboam,</hi> which he ſpeaks of; then he <hi>corrected</hi> himſelf, and ſaid, well; but <hi>Jehu,</hi> can you parallel it now? Why his <hi>heart</hi> was <hi>hypocriticall,</hi> and by <hi>policy</hi> clave to the ſame <hi>ſin</hi> of his Predeceſſors, and <hi>Baal</hi> again to pleaſe the people.</p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:118775:17"/>
+               <speaker>Ro.</speaker>
+               <p>True my Lord, and is it not ſo now?</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Hah</hi>—ſaith he; and turned about to his <hi>Army men, and ſo he ſpake of the Army too, what can you ſay of them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>I ſay they are an <hi>Appoſtate Army,</hi> that have moſt perfidiouſ<g ref="char:EOLhyphen"/>ly <hi>betrayed</hi> the <hi>cauſe</hi> of <hi>Chriſt,</hi> broken their <hi>faith</hi> in ſo many <hi>Decla<g ref="char:EOLhyphen"/>rations</hi> and <hi>Engagements,</hi> and are <hi>odious</hi> to the <hi>Saints;</hi> yea the very <hi>name</hi> of them will be <hi>odious</hi> to the <hi>children</hi> that are yet unborn.</p>
+            </sp>
+            <p> 
+               <hi>[With that the Army-men (for many Officers were by) were ſorely vexed, ſome grating their teeth, and laying heads together]</hi>
+            </p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>I tell you (ſaith he, in a chafe) I tell you, and you! that they have kept them all to a tittle, not one of you can make it appear that they have broke one</hi> Declaration <hi>or</hi> Engagement, <hi>or a tittle of one, prove it if you can, any of you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker> Ro.</speaker>
+               <p> Mr. <hi>Rogers</hi> did earneſtly preſſe for liberty, to inſtance in ſome, and with much ado, ſaid: My Lord, if you would have <hi>patience,</hi> I would inſtance in many: <hi>[they ſcoff again.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>Am I</hi> impatient? <hi>then let them that</hi> ſtand <hi>by ſee! nay, it is you are ſo full like the</hi> Pamphleters.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>They that write <hi>Pamphlets</hi> now, never printed more <hi>lyes</hi> and <hi>blaſphemies</hi> ſince the world ſtood.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>I think ſo too.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>But my Lord, if you pleaſe to let me <hi>ſpeak,</hi> for if I be ex<g ref="char:EOLhyphen"/>tream, is not <hi>paſſio concupiſcibilis,</hi> as we ſee in ſome men, who ſpeak all for themſelves, whileſt we ſeek onely for Chriſt and his <hi>king<g ref="char:EOLhyphen"/>dome,</hi> but rather a <hi>paſſio iraſcibilis</hi> (which it may, is my weakneſſe, but ſure it is my <hi>indignation</hi> to <hi>ſin</hi> and <hi>ſelf,</hi> and that which I ſee ſet up inſtead of <hi>Chriſt:</hi> but if you <note n="*" place="margin">For there were many poſtures <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> actions ten<g ref="char:EOLhyphen"/>ding to di<g ref="char:EOLhyphen"/>sturb and interrupt him.</note> will give me leave, I will in<g ref="char:EOLhyphen"/>ſtance in <hi>Declarations,</hi> as that in 47. for one, page 9. where they <hi>Declare againſt any Authority or Abſolute power in any Perſon or Perſons</hi> what ſoever during <hi>life;</hi> ſaying the people ſo <hi>ſubjected</hi> were <hi>meere Slaves,</hi> and that you would not have it ſo in <hi>any;</hi> no, not in any of your own <hi>Army;</hi> or of your own <hi>Principles;</hi> nor yet of whom you might have moſt <hi>perſonall aſſurance?</hi> and that it was no <hi>reſiſting of Magiſtracy,</hi> to ſide with <hi>juſt principles;</hi> and much more to that purpoſe: Beſides, in ſeverall <hi>others,</hi> as in <hi>Albans:</hi> and that when the <hi>Army</hi> went to <hi>Scotland</hi> againſt the Clergy and Tithes. </p>
+            </sp>
+            <p>[<hi>But Maſter</hi> Rogers <hi>was interrupted and not ſuffered to inſiſt on any others.</hi>
+            </p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>
+                  <hi>And who? Hear me: Who? — Who? I ſay, bath broken that? Where is an</hi> Arbitrary <hi>or</hi> Abſolute <hi>power? (nay, hear me) Where is ſuch a Power?</hi>
+               </p>
+            </sp>
+            <gap reason="missing" extent="8 pages">
+               <desc>〈8 pages missing〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:118775:17"/>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Is not the <hi>Long-ſword</hi> ſuch? By what <hi>Law</hi> or <hi>Power</hi> are we put <hi>into priſon,</hi> my brother <hi>Feak</hi> above theſe 12 months, I a<g ref="char:EOLhyphen"/>bove 28 weeks (and <hi>ſeveral others</hi> of our <hi>Brethren</hi>) and we know not for <hi>what</hi> to this day: which, I ſay again, is <hi>worſe,</hi> yea worſe then the <hi>Romane Law:</hi> And is not this <hi>Arbitrary?</hi> And is not your <hi>Power,</hi> with the <hi>Armies,</hi> Abſolute? to break up <hi>Parlia<g ref="char:EOLhyphen"/>ments,</hi> and do what you will? But if you pleaſe, let me <hi>inſtance</hi> in others.</p>
+            </sp>
+            <p> (But they would not ſuffer him.)</p>
+            <p>One of the <hi>Army,</hi> ſome ſay, L.C.<hi>W.</hi> Sir, (ſaith he to Mr. <hi>Ro.</hi>) you ſay the <hi>Army</hi> have broken all their <hi>Engagements.</hi>
+            </p>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, every one of them: and if they <hi>make another Decla<g ref="char:EOLhyphen"/>ration,</hi> they will hardly be believed again, by good people.</p>
+            </sp>
+            <sp>
+               <speaker>L.C.<hi>W.</hi>
+               </speaker>
+               <p> But I pray by what <hi>Rule</hi> do you <hi>reſiſt Powers</hi> ſet up of God?</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Sir, you are miſtaken, we do not reſiſt ſuch as are <hi>ſet up of God;</hi> but we <hi>reſiſt ſin</hi> in all men: and as <hi>Luther</hi> ſaid, <hi>Invaniar ſane ſuperbus,</hi> &amp;c. I may be accounted <hi>proud,</hi> mad, or <hi>any thing:</hi> but be it ſo <hi>ne modo impii ſilentii arguar, dum Chriſtus patitur;</hi> rather then I be guilty of the ſin of <hi>Silence.</hi> 
+                  <note n="*" place="margin">But Mr. <hi>Ro.</hi> was interrupt<g ref="char:EOLhyphen"/>ed, and forced to break off. whiles <hi>O. P.</hi> proceeded.</note>.</p>
+            </sp>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>Now for the <hi>Army,</hi> they are reſolved not to reſt, till they have <hi>performed</hi> all they <hi>engaged;</hi> and they are <hi>about it,</hi> as faſt as they can do it <hi>in order.</hi>
+               </p>
+            </sp>
+            <p> And much to that purpoſe he ſpake. But then Mr. <hi>Her.</hi> deſired to ſpeak.</p>
+            <sp>
+               <speaker>B. <hi>Her.</hi>
+               </speaker>
+               <p>I deſire to ſpeak a word.</p>
+            </sp>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>Well, do.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Her.</hi>
+               </speaker>
+               <p>That <hi>Gentleman</hi> (meaning L.C. <hi>W.</hi>) asked by what <hi>Rule</hi> we reſiſt <hi>powers:</hi> We deſire then to be ſatisfied, by what <hi>Rule</hi> you <hi>reſiſted</hi> the <hi>King,</hi> and <hi>warred</hi> againſt him and his <hi>adhe<g ref="char:EOLhyphen"/>rents,</hi> and <hi>deſtroyed</hi> the <hi>Governments</hi> before, ſeeing they were ac<g ref="char:EOLhyphen"/>counted too a <hi>lawful Authority.</hi> And conſider how much <hi>blood</hi> cries under the Altar, <hi>How long, O. Lord, holy and true!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>Would undertake to anſwer, by a <hi>long Narrative</hi> of the <hi>peoples grievances,</hi> the <hi>Kings abſolute power,</hi> and his ſeeking to <hi>deſtroy</hi> his <hi>ſubjects,</hi> till they were forced to take up <hi>Arms</hi> for their <hi>own defence;</hi> ſo that it was a <hi>defenſive War</hi> and the former powers had broken their <hi>Engagements,</hi> and forfeited their <hi>truſt.</hi>
+               </p>
+            </sp>
+            <p> Much more was ſpoken by <hi>one</hi> or <hi>other</hi> thereto. But ſaith he, looking upon Mr. <hi>Ro. Ha!</hi>
+            </p>
+            <sp>
+               <pb n="34" facs="tcp:118775:18"/>
+               <speaker>O. P.</speaker>
+               <p>I ſee he is <hi>full</hi> to ſpeak.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea. my Lord, I am: for <hi>(ex conceſſis)</hi> our <hi>controverſie</hi> is <hi>decided,</hi> and the Caſe is plain <hi>on our ſide,</hi> and ſeems ſo <hi>now</hi> more then <hi>even;</hi> 
+                  <note place="margin">The Controver<g ref="char:EOLhyphen"/>ſie cleared, out of their own mouthes.</note> for do not the poor <hi>people of God</hi> ſeel a <hi>Preragative-intereſt</hi> now up? As the <hi>old Non conformiſts,</hi> or the good <hi>old Puritans</hi> were perſecuted, impriſoned, reproached, and <hi>denied pro<g ref="char:EOLhyphen"/>tection</hi> from <hi>men,</hi> and therefore were forced to flie to <hi>God</hi> by faith and prayer, and tears day and night, <note place="margin">1.</note> (not ceaſing, till the <hi>vial of wrath</hi> was poured out upon the beads of the <hi>King</hi> and his <hi>Prelates:</hi> ſo, I ſay, the <hi>new Non-conformiſts</hi> are abuſed, diſowned, and <hi>denied protection;</hi> perſecuted, impriſoned, baniſhed, and forced day and night (yea thouſands of them in <hi>City</hi> and <hi>Country</hi>) to their <hi>faith, tears, prayers,</hi> and <hi>appeals;</hi> which are the <hi>Bombar da Chriſtiano<g ref="char:EOLhyphen"/>rum,</hi> and will <hi>prevail</hi> (as ſure as God is in heaven) to bring down the <hi>next</hi> hot ſcorching <hi>vial of his wrath</hi> upon theſe <hi>new Enemies and Perſecutors.</hi>
+               </p>
+               <p>Beſides, <note n="2" place="margin">2.</note> in your <hi>own Declaration,</hi> p. 7. of that — 43, you ſay it is <hi>no reſiſting of Magiſtracie to ſide with juſt principles.</hi> And is it not <hi>juſt</hi> to <hi>ſide with</hi> that Intereſt which the <hi>blood</hi> of <hi>ſo many thouſands</hi> of the <hi>Saints</hi> hath <hi>ſealed</hi> to, in the three Nations; and ſo many <hi>Declarations, Vows,</hi> and <hi>Engagements</hi> have been made for, <hi>viz.</hi> for the <hi>Lambs,</hi> and againſt <hi>this your Intereſt,</hi> which we have all <hi>engaged, prayed, bled,</hi> and <hi>fought againſt?</hi> Now, my Lord, let the <hi>loud Cries</hi> of the <hi>blood</hi> ſhed againſt theſe things you have ſet up, be heard; and make <hi>reſtitution</hi> of that <hi>blood,</hi> thoſe <hi>lives, tears, bowels, faith, prayer, limbs,</hi> and <hi>skulls,</hi> of us and our <hi>relations</hi> left in the fields, and laid out againſt this kinde of <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> whether in <hi>Civil</hi> or <hi>Eccleſiaſtical;</hi> or elſe let us have what they were <hi>laid out</hi> for: otherwiſe we muſt and will, with the <hi>Lords</hi> help, ſide with thoſe <hi>juſt Principles</hi> that have been ſo <hi>ſealed to,</hi> and <hi>owned</hi> by the Lord. And this will be a moſt apparent <hi>defenſive war</hi> as ever was in the world, to <hi>defend</hi> what the <hi>blood,</hi> and <hi>bones,</hi> and <hi>eſtates</hi> of ſo many thouſands of the <hi>Saints of God</hi> have bought at ſo high a <hi>rate,</hi> which they are wronged: for they never thought of ſetting up this. And therefore I ſay, (my Lord) if <hi>our God</hi> the <hi>Lord Jehovah</hi> do give his <hi>Call,</hi> I am ready, for one, amongſt the <hi>Lords remnant,</hi> to ſide with <hi>juſt Principles,</hi> in the ſtrength of the <hi>Anointing,</hi> whether it be <hi>pradicando, pracando,</hi> or <hi>praeliando;</hi> by <hi>preaching, praying,</hi> or <hi>fighting.</hi>
+               </p>
+            </sp>
+            <pb n="35" facs="tcp:118775:18"/>
+            <sp>
+               <speaker>Sir <hi>Gilb. P.</hi>
+               </speaker>
+               <p>Said you not <hi>praliando?</hi>
+               </p>
+            </sp>
+            <p>Yea, ſays Mr. <hi>R.</hi> in the <hi>Spirit of the Lord:</hi> for the <hi>Caſe</hi> was <hi>never ſo clear</hi> as now it is in the <hi>ſtate</hi> of the <hi>Controverſie.</hi> For the <hi>Controverſie</hi> is not <hi>now</hi> between <hi>man</hi> and <hi>man,</hi> 
+               <note place="margin">The ſtate of the Controverſie is between <hi>Chriſt</hi> &amp; <hi>O.P.</hi> Chriſts Government &amp; Mans.</note> one <hi>Government</hi> of the <hi>world,</hi> and another <hi>Government</hi> of the <hi>world,</hi> or <hi>King</hi> and <hi>People;</hi> but it is now between <hi>Chriſt</hi> and <hi>you</hi> (my Lord) <hi>Chriſts Government</hi> and <hi>yours:</hi> and which of <hi>theſe two,</hi> are the <hi>higher powers</hi> for us to ſide with, and be obedient unto, judge ye.</p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Ha! Why who <hi>denies</hi> the Caſe to be <hi>clearer</hi> now? But I heard indeed, <note place="margin">This ſpeech ſeemed to trou<g ref="char:EOLhyphen"/>ble them all.</note> it is ſome of your <hi>principles</hi> to be at it: you long to be at it; you want but an opportunity.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>The <hi>remnant</hi> of the <hi>womans ſeed</hi> muſt be at it when they have the <hi>Call.</hi> For I beſeech you, my Lord, conſider how neer it is to the <hi>End</hi> of the <hi>Beaſts dominion,</hi> the 42 months, and what time of day it is with us now. </p>
+            </sp>
+            <p>(But Mr. <hi>Ro.</hi> was interrupted.)</p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Talk not of that; for I muſt tell you plainly, <note place="margin">An <hi>Ignoramus</hi> brought in very honeſtly.</note> they are things I underſtand not.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>It ſeems (my Lord) ſo, elſe ſurely you durſt not lay <hi>violent hands</hi> upon <hi>us,</hi> for the <hi>testimony</hi> and <hi>truth</hi> of the <hi>day,</hi> as you do.</p>
+            </sp>
+            <sp>
+               <speaker>B. <hi>D.</hi> (one of the 12) </speaker>
+               <p>Why then do you <hi>impriſon</hi> others for the <hi>light,</hi> if you your ſelf be ſo <hi>ignorant?</hi>
+               </p>
+            </sp>
+            <p> (But then ſome of the <hi>Court-creatures</hi> pull'd him by the <hi>cloak,</hi> and laid <hi>violent hands on him,</hi> and call'd him <hi>ſtinking baſe fellow,</hi> ſaying he knew not whom he ſpake to, nor where he was; giving him many <hi>uncivil words.</hi> But afterward one of them ſaid to him, <hi>Ask for Mr. Ro. out of priſon; a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k for him, and my Lord will let him out.</hi> But B. <hi>D.</hi> anſwered, <hi>No, Sir, we came not for that.</hi>
+            </p>
+            <sp>
+               <speaker>B.<hi>P.</hi>
+               </speaker>
+               <p>Great men are not always wiſe.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>See! (ſays he, looking upon his <hi>Army-men.</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>They are not always <hi>wiſe</hi> with the wiſdom of God, though they may have much <hi>carnal policie, ſubtilty,</hi> and <hi>reaſon of State.</hi> But the <hi>ſeed of the woman</hi> ſhall <hi>break the Serpents head.</hi>
+               </p>
+            </sp>
+            <p> (Which Mr. <hi>Ro.</hi> ſpeaking with a high voice, and great alacrity, it made the Courtiers ſcoff at him, as if he were a <hi>Mad-man.</hi>
+            </p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Ha! and thus they talk of the <hi>Miniſtery,</hi> and <hi>Commiſſio<g ref="char:EOLhyphen"/>ners</hi> for <hi>Approbation,</hi> and ſay they are <hi>Antichriſtian.</hi>
+                  <note n="*" place="margin">See your Ordi<g ref="char:EOLhyphen"/>nance, <hi>March 20, 1653.</hi> the <hi>ground</hi> is upon Patrons right to preſent to cure of ſouls; the <hi>creator,</hi> is your L P. <hi>Cromwel;</hi> the <hi>matter,</hi> men of corrupt principles and practices, and most of them of the National Church; the <hi>end</hi> is, to fill Pariſh-cures, and get Tythes: all An<g ref="char:EOLhyphen"/>tichriſtian.</note>.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, my Lord, we do ſay ſo, and they are ſo, as to their ſtan<g ref="char:EOLhyphen"/>ding upon a <hi>wrong, un-Goſpel</hi> foot of <hi>account;</hi> and I will prove
+<pb n="36" facs="tcp:118775:19"/>them and your <hi>Tryers</hi> (I ſpeak not as to their <hi>perſons,</hi> but as to their <hi>ſtanding</hi>) Antichriſtian for <hi>matter,</hi> and <hi>form,</hi> and <hi>rule</hi> (by which they ſit) and <hi>end</hi> for which they ſit.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>You fix the name of <hi>Antichriſtian</hi> upon any thing.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Pray (my Lord) make no <hi>Law</hi> againſt that <hi>name;</hi> let it not be <hi>treaſon</hi> to uſe the name <hi>Antichriſtian:</hi> for that name will up yet higher and higher; and many things that you think <hi>good</hi> and <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> will be found <hi>Antichriſtian</hi> ere long.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Being angry, look'd on his <hi>Army-men:</hi> See! ſaid he, and ſo all is <hi>Antichriſtian,</hi> and <hi>Tythes</hi> are ſo too with you; but I will prove they are not.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>My Lord, you were once of <hi>another minde,</hi> and told me you'd have them pull'd down, and put into a <hi>Treaſury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Did I ever ſay ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea that you did, in the <hi>Co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k-pit</hi> (the <hi>round place</hi> there;) and ſaid moreover, that the <hi>Poor</hi> ſhould be maintained and put to work, with what remained of them, that we might have no <hi>begger</hi> in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Ha! there be many <hi>Gentlemen</hi> know that I have been for them, and will maintain the <hi>juſtneſs</hi> of them.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>But, my Lord, how can that be, that the <hi>National Miniſte<g ref="char:EOLhyphen"/>ry</hi> is not Antichriſtian?</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>See now! how you run! It is not a <hi>National Miniſtery</hi> that is now eſtabliſhed, nor can you make it appear they are Anti<g ref="char:EOLhyphen"/>chriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Yea, my Lord, without any difficulty, out of your own Law which hath conſtituted theſe <hi>Tryers</hi> and <hi>High-Court-Commiſſio<g ref="char:EOLhyphen"/>ners</hi> to eſtabliſh a <hi>worldly Clergie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>I tell you, you and you, that you cannot; for they <hi>ordain</hi> none.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>No: but if the <hi>Pope, Prelate,</hi> or <hi>Devil</hi> ſhould ordain them, they muſt approve of them, ſettle them in their <hi>Pariſhes,</hi> get them their <hi>Tythes,</hi> and what not? if they be but conformable to</p>
+            </sp>
+            <p>— He is interrupted.</p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>I tell you, I tell you, it is their <hi>grace</hi> they <hi>judge</hi> of, and not for <hi>parts</hi> or <hi>learning, Latine, Greek,</hi> or <hi>Hebrew.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>And who made them <hi>judges</hi> of <hi>grace,</hi> my Lord? At moſt, they can but judge of the <hi>fruits of grace;</hi> and how dare they take
+<pb n="37" facs="tcp:118775:19"/>upon them to be <hi>judges</hi> over <hi>Grace?</hi> It is not <hi>you,</hi> but the <hi>Lord Jeſus,</hi> that can make them <hi>ſuch judges.</hi>
+               </p>
+            </sp>
+            <p> [With that, he turned away, as very angry.</p>
+            <sp>
+               <speaker>B.<hi>H.</hi>
+               </speaker>
+               <p>My Lord, we are very much <hi>diſſatiſfied</hi> with what you have done againſt theſe <hi>priſoners of the Lord Jeſus,</hi> for ſo they are, and we muſt count them ſo: for you have given us <hi>no ſat is faction</hi> at all, in what you pretend them to be as <hi>evil doers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>I cannot tell you then how to help it.</p>
+            </sp>
+            <sp>
+               <speaker>B.<hi>H.</hi>
+               </speaker>
+               <p>For my part, I muſt <hi>declare</hi> againſt you, and will venture my <hi>life,</hi> if I be called to it, with theſe our brethren that <hi>ſuffer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.<hi>Cr.</hi>
+               </speaker>
+               <p>As for thoſe <hi>Articles,</hi> we have heard them read, againſt our bro. <hi>Ro.</hi> out of his <hi>Sermons</hi> preached at <hi>Tho. Apoſt.</hi> and from what he prayed at <hi>Th. Apoſt.</hi> Set aſide but what is put in by <hi>your In<g ref="char:EOLhyphen"/>formers,</hi> which we wil take our Oathes that heard them (all preached) were never ſpoken by him: (only, I ſay, that excepted) we will <hi>live</hi> and <hi>die</hi> with him upon thoſe <hi>Articles,</hi> &amp; will own him with our <hi>lives.</hi>
+               </p>
+            </sp>
+            <p> — Yea, ſaid Mr. <hi>Ro.</hi> and I believe an hundred will, that heard and writ them.</p>
+            <sp>
+               <speaker>O. P.</speaker>
+               <p>Well, (ſaith he) I'll ſend for <hi>ſome</hi> of you ere long: but I have loſt <hi>this time,</hi> and have <hi>publike buſineſs</hi> upon me at this time: I had rather have given 500 <hi>l.</hi> I tell you, there wants <hi>brotherly love;</hi> and the <hi>ſeveral</hi> ſorts of <hi>Forms</hi> would cut the throats one of another, ſhould not I keep the <hi>peace.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Thoſe you call <hi>Fifth Monarchy-men,</hi> are driven by your <hi>Sword</hi> to love one another.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Why I tell you there be <hi>Anabaptiſts</hi> (pointing at Mr. <hi>Kif<g ref="char:EOLhyphen"/>ſin</hi>) and they would cut the throats of them that are not under their <hi>Forms;</hi> ſo would the <hi>Presbyterians</hi> cut the throats of them that are not of their <hi>Forms;</hi> and ſo would you <hi>Fifth Monarchy-men.</hi> It is ſit to keep all theſe <hi>Forms</hi> out of the <hi>Power.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Who made you (my Lord) a <hi>Judge</hi> of our <hi>Principles?</hi> You ſpeak evil of you know not what. For that <hi>Fifth Monarchy-principle</hi> (as you call it) is of ſuch a <hi>latitude</hi> as takes in <hi>all Saints,</hi> all ſuch as are <hi>ſanctified in Chriſt Jeſus,</hi> without reſpect of what <hi>Form</hi> or <hi>Judgement</hi> he is. But, <hi>Judiciuns fit ſecundum vim in<g ref="char:EOLhyphen"/>tellectualis luminis</hi>
+               </p>
+            </sp>
+            <p>— [He was interrupted.</p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>What do you tell us of your <hi>Latine?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Why (my Lord) you are <hi>Chancellor of Oxford;</hi> and can you not bear that <hi>Language?</hi>
+               </p>
+            </sp>
+            <pb n="38" facs="tcp:118775:20"/>
+            <sp>
+               <speaker>B.<hi>C.</hi>
+               </speaker>
+               <p>My Lord, we have great <hi>comfort</hi> by the Miniſtery of our brother <hi>Rogers,</hi> and great <hi>miſs</hi> of him; and therefore we have <hi>de<g ref="char:EOLhyphen"/>manded</hi> his <hi>Liberty,</hi> and deſire to know whether he ſhall be at liber<g ref="char:EOLhyphen"/>ty, or no.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>I will take <hi>my own time:</hi> you ſhall not know what I will do.</p>
+            </sp>
+            <sp>
+               <speaker>B.<hi>H.</hi>
+               </speaker>
+               <p>Then let us have <hi>liberty to hear him preach.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S. <hi>Dendy.</hi>
+               </speaker>
+               <p>It cannot be, my Lord: for I have many priſoners and 'tis dangerous <note n="*" place="margin">And yet for all S. <hi>Dendy</hi>'s baſeneſs to the poor perſecuted people of God, And his readi<g ref="char:EOLhyphen"/>neſs to prevent the <hi>great mans</hi> anſwer, he can let in as many as will come, to the drunken profane priſo<g ref="char:EOLhyphen"/>ners &amp; plotters; ſo that friends are glad to uſe their names (if they know any of them) that come to ſee Mr. <hi>Rogers.</hi>
+                  </note>.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>Pray, my Lord, conſider that place in <hi>Iſa.</hi> 49.24, 25, 26. for the Lord will deliver the <hi>lawful Captive</hi> in that day which is <hi>coming:</hi> you can but have my <hi>blood</hi> at laſt; and you had like to have had it already in the <hi>Priſon</hi> ere this: two of my <hi>children</hi> have <hi>died</hi> there ſince my impriſonment, and I have been at <hi>Deaths-door.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B. <hi>H.</hi>
+               </speaker>
+               <p>It is unreaſonable our brother <hi>Ro.</hi> ſhould be kept <hi>priſoner</hi> ſo, in ſuch a <hi>place,</hi> and at ſuch a <hi>charge</hi> as is (for him) above 200 <hi>l. per an.</hi> and we know <hi>no cauſe</hi> for it, but his <hi>conſcience.</hi>
+               </p>
+            </sp>
+            <p>Then S. <hi>Dendy</hi> was ſpoken to, to anſwer for himſelf.</p>
+            <sp>
+               <speaker>S.<hi>D.</hi>
+               </speaker>
+               <p>Now, my Lord, I ſee one of my <hi>Accuſers.</hi> I never de<g ref="char:EOLhyphen"/>manded a peny of Mr. <hi>Ro.</hi> nor of my <hi>Aunt</hi> his wife, who is one of Sir <hi>Robert Payne</hi>'s daughters.</p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>I knew her father very well.</p>
+            </sp>
+            <sp>
+               <speaker>S.<hi>D.</hi>
+               </speaker>
+               <p>But they have (my Lord) <hi>three rooms,</hi> and it cannot be al<g ref="char:EOLhyphen"/>lowed.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>No more room then <hi>one priſoner</hi> had before, being divided into three <hi>little rooms,</hi> and but <hi>one chimney</hi> in them All. The <hi>Plot<g ref="char:EOLhyphen"/>ter</hi> that went out before I came into them, had them <hi>All.</hi> And for the <hi>Fees,</hi> though you in <hi>perſon</hi> demanded them not, yet <hi>your man</hi> (old <hi>Meaſey</hi>) did, for you, ſeveral times, <hi>viz.</hi> 4 <hi>l.</hi> 4 <hi>s. per</hi> week; which he did before <hi>witneſs,</hi> as I can prove under their hands: and he ſaid I ſhould not go out till the <hi>Sergeant</hi> had it. And what beſides I was to pay you, I was not to know till I went out.</p>
+            </sp>
+            <p>Mrs. <hi>Ro.</hi> ſaid to Sergeant <hi>Dendy,</hi> It's true, you have had but 5 <hi>l.</hi> yet of it.</p>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Why he is your <hi>Nephew,</hi> who was <hi>accounted</hi> one that lo<g ref="char:EOLhyphen"/>ved the people of God.</p>
+            </sp>
+            <sp>
+               <speaker>Ro.</speaker>
+               <p>So were <hi>others</hi> as well as <hi>he,</hi> till this <hi>trial.</hi>
+               </p>
+            </sp>
+            <pb n="39" facs="tcp:118775:20"/>
+            <sp>
+               <speaker>Mr. <hi>Cre.</hi>
+               </speaker>
+               <p>My Lord, will you not give us the liberty to hear him in the <hi>Priſon</hi> then, ſeeing you will not let us hear him <hi>abroad?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O.P.</speaker>
+               <p>Is that the liberty you ſought for? (ſays he, in a ſcoff.)</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Cr.</hi>
+               </speaker>
+               <p>Yes, Sir, and that which we <hi>demand.</hi>
+               </p>
+            </sp>
+            <p>But then the <hi>Great man</hi> would be gone: and as he was going <hi>out,</hi> Mr. <hi>Ro.</hi> deſired him to remember he muſt be <hi>judged,</hi> and the <hi>day of the Lord</hi> was neer, and that he would, (ere long) and thoſe about him finde them that <hi>now</hi> he and they counted <hi>falſe Prophets,</hi> in <hi>Windſor</hi> and <hi>Lambeth,</hi> true Prophets; and what they have ſaid, they ſhould finde come to paſs ere <hi>many yeers</hi> yet: for that the <hi>righ<g ref="char:EOLhyphen"/>teous Jehovah,</hi> who ſitteth <hi>on high,</hi> heareth all our <hi>prayers, ſighs, groans,</hi> and <hi>tears.</hi> But away he went, and would not hear.</p>
+            <p>As ſoon as we came out of the room, Sergeant <hi>Dendy</hi> in the Gal<g ref="char:EOLhyphen"/>lery threatned what he would do, and how he would <hi>ſend</hi> them <hi>fur<g ref="char:EOLhyphen"/>ther off,</hi> and <hi>order</hi> them ere long; Mr. <hi>Rogers</hi> receiving the <hi>threat<g ref="char:EOLhyphen"/>ning</hi> without <hi>impatience,</hi> or one word of <hi>reply</hi> unto him.</p>
+            <p>That <hi>very night,</hi> a ſtrict <hi>Order</hi> was ſent after <hi>him</hi> to <hi>Lambeth-priſon,</hi> that no more then <hi>ſix</hi> may come to ſee Mr. <hi>R.</hi> at a time, (no <hi>ſuch Order</hi> being made for any of the <hi>other Priſoners,</hi> who have of <hi>lend company</hi> as many as they will at a time.) And ſince that, the <hi>Gaoler</hi> hath been ſo <hi>ſtrict,</hi> (eſpecially upon the <hi>Lords days</hi>) ac<g ref="char:EOLhyphen"/>cording to his <hi>Orders</hi> from <hi>Whitehal,</hi> that he will not ſuffer one <hi>brother</hi> to come in to <hi>ſee</hi> him, or to <hi>pray</hi> with him, that is ſent from the <hi>Churches</hi> of <hi>Chriſt,</hi> (upon thoſe days, if he knows him) to keep a <hi>holy reſt</hi> with Mr. <hi>R.</hi> 
+               <note place="margin">In the mean time, the Con<g ref="char:EOLhyphen"/>tumelies, Con<g ref="char:EOLhyphen"/>tempt, and op<g ref="char:EOLhyphen"/>probrious abu<g ref="char:EOLhyphen"/>ſes, the members of Mr. <hi>Peak's,</hi> Mr. <hi>Rogers</hi>'s, Mr. <hi>Raworth</hi>'s and of ſome o<g ref="char:EOLhyphen"/>ther Churches, met with below in the yard, du<g ref="char:EOLhyphen"/>ring the fore<g ref="char:EOLhyphen"/>ſaid Diſcourſe with <hi>O. Crom<g ref="char:EOLhyphen"/>wel.</hi>
+               </note> But to <hi>paſs over</hi> that and leave it to the <hi>Judge of heaven and earth,</hi> who (we are ſure) will not <hi>over<g ref="char:EOLhyphen"/>paſs</hi> it.</p>
+            <p>During this <hi>Diſcourſe</hi> between Mr. <hi>R.</hi> and the <hi>Great man</hi> above, the <hi>Brethren</hi> that were below in the yard, had their ſhare of <hi>re<g ref="char:EOLhyphen"/>proaches</hi> and <hi>abuſes.</hi> For the <hi>members</hi> of the <hi>Churches of Chriſt</hi> who could not have acceſs with Mr. <hi>Ro.</hi> were kept below, and <hi>en<g ref="char:EOLhyphen"/>compaſſed about</hi> with divers of the <hi>deboiſt Souldiers;</hi> who when they heard us <hi>declare againſt</hi> thoſe <hi>barbarous actions</hi> which the <hi>Guard</hi> ſo cruelly acted with their <hi>Swords,</hi> againſt our <hi>naked bre<g ref="char:EOLhyphen"/>thren</hi> and <hi>friends,</hi> thoſe aforeſaid <hi>Souldiers</hi> began to queſtion the <hi>occaſion</hi> of our being there: which when we had told them, they began to ſet up their <hi>voices,</hi> (many of them) <hi>hooting</hi> and <hi>hiſſing</hi> at <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as if we had not been <hi>Chriſtians,</hi> or <hi>creatures</hi> of the <hi>like make</hi>
+               <pb n="40" facs="tcp:118775:21"/>with themſelves; telling us we had often <hi>riſen,</hi> and they had <hi>allayed</hi> us, and they made <hi>no queſtion</hi> but they ſhould alſo <hi>allay</hi> us at this time, if we intended to riſe. To whom we anſwered, that there was <hi>no ſuch thing</hi> in cur eye <hi>now,</hi> as to <hi>avenge</hi> our ſelves by or with <hi>external weapons:</hi> but ſaid, We have here <hi>Swords</hi> (ſhewing our <hi>Bibles</hi>) which we believe will, in <hi>God's appointed time,</hi> (being <hi>guided</hi> and <hi>accompanied</hi> by his <hi>Spirit</hi>) <hi>deſtroy</hi> and <hi>cut in pieces</hi> your Swords, which now you <hi>draw</hi> againſt <hi>us</hi> and <hi>it.</hi>
+            </p>
+            <p>Afterwards we further obſerved, that whilſt we were waiting be<g ref="char:EOLhyphen"/>lowe in the open yard, for the return of our <hi>friend,</hi> and <hi>friends,</hi> there being of us (as neer as we can remember) betwixt <hi>fourty</hi> and <hi>fifty</hi> perſons, (men and women) that we could finde <hi>no place</hi> in the aforeſaid yard, where we might have any <hi>quiet,</hi> or be <hi>free</hi> from the <hi>uncivil reproaches, ſcoffing, jeers, blaſphemous nicknames,</hi> and what not? which ſome of the aforeſaid <hi>Foot-guard</hi> threw upon us, with great <hi>contempt</hi> and <hi>ſcorn,</hi> telling us, <hi>Bridewel</hi> and ſuch-like places were <hi>ſitter</hi> for us, <note place="margin">So that we be<g ref="char:EOLhyphen"/>lieve, the Lord bath a little remnant in the army alſo, whoſe ſouls do ſecretly mourn for theſe Abominations: and it is obſer<g ref="char:EOLhyphen"/>vable, that the Lord hath by degrees pull'd the choiceſt of them out of this Apoſtate-army, that they might not partake of their plagues; as, M.G. <hi>Ha<g ref="char:EOLhyphen"/>riſon,</hi> col. <hi>Rich</hi> Col. <hi>Okey,</hi> col. <hi>Alured,</hi> Adj. G. <hi>Allen,</hi> M.G. <hi>Overton,</hi> Maj. <hi>Wiggens,</hi> Dr. <hi>Day,</hi> and many others.</note> then to be <hi>there?</hi>
+            </p>
+            <p>But in the midſt of their <hi>uncivil, unchriſtian-like,</hi> and <hi>very leud language</hi> to us, we cannot but remember that ſpirit of <hi>remorſe</hi> and <hi>pity</hi> which ſeemed to be in ſome of their <hi>Officers,</hi> to ſee us ſo abu<g ref="char:EOLhyphen"/>ſed: inſomuch as <hi>ſome</hi> of the ſaid Officers told us they were ſorry to ſee ſuch things, namely, the <hi>uncivil carriage</hi> of ſome of their <hi>Souldiers:</hi> yet (ſaid they) we cannot expect <hi>better,</hi> where it is not.</p>
+            <p>Thus, for the ſpace of <hi>divers hours,</hi> we were <hi>barried</hi> up and down, not being ſuffered to be in <hi>quiet</hi> in <hi>any one place,</hi> without the company of divers of thoſe <hi>unruly fellows,</hi> whom we ſhould have been content to let <hi>hear</hi> our <hi>diſcourſe,</hi> would they have ſuffered us to <hi>ſtand ſtill</hi> or in <hi>quiet:</hi> But they ſo <hi>uncivilly</hi> &amp; moſt <hi>ungodlily</hi> ſhew their <hi>obſcene</hi> and <hi>ſilt by ſpeeches</hi> and <hi>actions;</hi> yea, they <hi>pulled</hi> and <hi>haled</hi> divers of the <hi>women</hi> and <hi>maids</hi> that were there of our friends, and ſaid that <hi>we made no conſcience of our ways,</hi> and that they were of <hi>light principles,</hi> uſing ſuch <hi>words</hi> and <hi>geſtures</hi> to them and us, as we are aſhamed to utter or expreſs; beſides manifold more <hi>provoca<g ref="char:EOLhyphen"/>tions, revilings,</hi> and <hi>filthy ſpeeches,</hi> and <hi>threatnings,</hi> and <hi>ſinful actions,</hi> wherein they ſeemed to take <hi>great delight.</hi>
+            </p>
+            <p>But after Mr. <hi>Rogers</hi> and the <hi>Brethren</hi> that were with him came down into the Yard, many <hi>friends</hi> gathered about him. Whiles
+<pb n="41" facs="tcp:118775:21"/>Mr. <hi>R.</hi> (being remanded again to priſon) was going to take water with his <hi>Keeper,</hi> he heard M.G. <hi>Hariſon,</hi> Col.<hi>Rich,</hi> Mr.<hi>Carew,</hi> Qu.M.Gen. <hi>Courtney,</hi> Mr. <hi>Ireton,</hi> Mr. <hi>Squib,</hi> with many others, were there, in the yard: ſo that Mr. <hi>Ro.</hi> went to them. And after <hi>joyful Salutations,</hi> he told them he was going to <hi>Priſon</hi> again <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that there were <hi>Articles</hi> put in by <hi>wicked men</hi> out of the Pri<g ref="char:EOLhyphen"/>ſon againſt him, which he excepted againſt as <hi>illegal,</hi> and as given in by <hi>Plotters,</hi> and men given to <hi>drinking, ſwearing,</hi> and ſuch-like <hi>ſins;</hi> and ſome <hi>others,</hi> which were read againſt him, from <hi>Tho. Apoſtles.</hi> But as he was telling this, he was interrupted by one that cried out, <hi>That is falſe, it is falſe.</hi> Upon which, he was <hi>ſilent,</hi> to look upon the man that ſo ſaid: and it was Mr. <hi>Kiffen,</hi> (who had crowded among us, to liſten for tales to carry to his Maſter) who then ſaid, They were not Articles put in by <hi>Drunkards,</hi> that is untrue, <hi>&amp;c.</hi> but by honeſt <hi>Godly men</hi> that heard you at <hi>Tho. Apo<g ref="char:EOLhyphen"/>ſtles.</hi> To which Mr. <hi>Ro.</hi> replied, that the Articles were of <hi>two ſorts:</hi> thoſe <hi>read,</hi> were from <hi>Tho. Apoſtles;</hi> but thoſe <hi>unread,</hi> (which he excepted againſt) were from <hi>Lambeth,</hi> given in by ſuch <hi>leud men,</hi> and he ſaw them upon the <hi>Table:</hi> and that his Lord <hi>Pro<g ref="char:EOLhyphen"/>tector</hi> (beſides) ſaid they had <hi>Informations</hi> from the <hi>Priſon,</hi> and moreover read one of them, <hi>viz.</hi> that of the <hi>Great Dragon;</hi> and Sergeant <hi>Dendy</hi> ſent them to Mr. <hi>Thurloe,</hi> as was proved: ſo that it was not <hi>falſe,</hi> but <hi>very true.</hi> At which Mr. <hi>Kiffen</hi> was ſo ſilen<g ref="char:EOLhyphen"/>ced, that he could not ſay a word for himſelf. Which ſome of the Gentlemen by, ſeeing, reproved him for his <hi>raſhneſs:</hi> and ſo Mr. <hi>Ro.</hi> and they parted, perceiving people to <hi>flock</hi> about them and with<g ref="char:EOLhyphen"/>out doubt, to have ſomewhat to <hi>inform</hi> their <hi>Great Maſter</hi> againſt Mr. <hi>Ro.</hi> or ſome of the poor <hi>Saints;</hi> for that is the <hi>principle</hi> and <hi>practice</hi> of <hi>ſelf-ſeeking Sycophants</hi> and <hi>Court-Paraſites,</hi> to <hi>make</hi> themſelves, and not care how they <hi>murther</hi> others, or what they <hi>in<g ref="char:EOLhyphen"/>form</hi> againſt them.</p>
+            <p>Whiles Mr. <hi>R.</hi> was carried away to <hi>priſon</hi> again, <note place="margin">M.G. <hi>Hariſon,</hi> Col. <hi>Rich,</hi> Mr. <hi>Carew,</hi> Mr. <hi>Squib,</hi> Mr. <hi>Courtney,</hi> Mr. <hi>Ireton,</hi> &amp; ma<g ref="char:EOLhyphen"/>ny others, con<g ref="char:EOLhyphen"/>tinued up the <hi>Teſtimony</hi> &amp; the <hi>Demand</hi> to <hi>O. P.</hi> the very ſame night.</note> the foreſaid Gentlemen (of <hi>much merit,</hi> and <hi>ſingular honour</hi> amongſt the <hi>choi<g ref="char:EOLhyphen"/>ceſt Saints,</hi> for their unſpotted <hi>ſanctity,</hi> and <hi>integrity</hi> to the <hi>betray<g ref="char:EOLhyphen"/>ed Truth</hi> and <hi>Cauſe</hi> of Chriſt) went up to the <hi>Great Man;</hi> although before they could have any acceſs, the <hi>Sword was drawn</hi> at them al<g ref="char:EOLhyphen"/>ſo, and ſet at Mr. <hi>Carey</hi>'s breſt: but after eight or ten of them had <hi>liberty</hi> to <hi>O. P.</hi> they brought him the ſome kinde of <hi>Meſſage</hi> from
+<pb n="42" facs="tcp:118775:22"/>
+               <hi>Jehovah,</hi> that was before delivered him by the <hi>Twelve;</hi> making a <hi>Demand</hi> of the <hi>Lord's Priſoners,</hi> and bearing their <hi>Teſtimony</hi> to his <hi>face,</hi> againſt <hi>Him</hi> and <hi>his Government.</hi>
+            </p>
+            <p>In the mean time, Mr. <hi>Kiffen</hi> belowe had got a <hi>company</hi> toge<g ref="char:EOLhyphen"/>ther (in Mr. <hi>Rogers</hi>'s abſence) railing upon him, and ſaying he was a <hi>wicked man,</hi> and had told what was not true of the <hi>Articles,</hi> and ſpake againſt <hi>his Lord.</hi> But Mr. <hi>G.</hi> (a precious <hi>godly Chriſtian,</hi> and a <hi>member</hi> of the Church at <hi>D.</hi>) then ſpake aloud to Mr. <hi>Kiffen</hi> (as Mr. <hi>K.</hi> did before to Mr. <hi>R.</hi>) ſaying, <hi>That's falſe:</hi> for I can (ſays he) no more be ſilent for Mr. <hi>Rogers,</hi> then you can be for your <hi>Lord Protector:</hi> What Mr. <hi>R.</hi> ſpake was <hi>truth,</hi> as he made it appear to your face; (and then he told him how.) So that poor Mr. <hi>K.</hi> was ſilenc'd again the <hi>ſecond time,</hi> and could not go on, till a more <hi>pri<g ref="char:EOLhyphen"/>vate</hi> and <hi>clandeſtine meeting</hi> among his own kinde of <hi>Time-ſer<g ref="char:EOLhyphen"/>vers</hi> and <hi>Self-ſeekers,</hi> where he might tell his <hi>untruths</hi> againſt Mr. Mr. <hi>R.</hi> M.G. <hi>Hariſon,</hi> and others, without <hi>control,</hi> (as we hear <hi>he,</hi> with ſome that belong unto him, have done at large) and have them taken upon the <hi>truſt</hi> and <hi>credit</hi> of his <hi>word</hi> at a venture: it is but <hi>reaſon</hi> and <hi>gratitude</hi> to his <hi>Great Maſter,</hi> to poſſeſs <hi>all he can</hi> againſt the poor <hi>perſecuted Saints,</hi> in the behalf of him to whom he is ſo highly obliged, (above <hi>any one man</hi> almoſt in <hi>England</hi>) for his large <hi>favors,</hi> &amp; beneficial <hi>Patentees.</hi> But ere long <hi>the Merchants who were made Rich</hi> (by compliance with <hi>Babylon) ſhall weep and wail, and ſay, Alas, Alas!</hi> Rev. 18.15, 16.</p>
+            <p>It is to be <hi>obſerved,</hi> 
+               <note place="margin">ſomewhat ob<g ref="char:EOLhyphen"/>ſervable.</note> that <hi>very day</hi> the <hi>Sword</hi> was drawn <hi>twice</hi> at the <hi>Witneſſes</hi> and <hi>Womans Seed.</hi> The <hi>Providence</hi> is alſo <hi>ad<g ref="char:EOLhyphen"/>mirable,</hi> at that very <hi>juncture</hi> when Mr. <hi>R.</hi> and the <hi>Brethren</hi> were before him, to maintain the <hi>Teſtimony</hi> and <hi>Demand</hi> made by the <hi>Twelve,</hi> that on <hi>that very day</hi> (many <hi>Aſſemblies</hi> of the <hi>Saints</hi> in ſeveral places, being hard at the <hi>Throne</hi>) the <hi>Lord</hi> ſhould call out <hi>one</hi> (unknown to any of us) whole <hi>Meeting</hi> of the <hi>praying num<g ref="char:EOLhyphen"/>ber</hi> (being about 34 men) to go to <hi>Whitehal,</hi> and bear their <hi>Wit<g ref="char:EOLhyphen"/>neſs</hi> alſo.</p>
+            <p>The <hi>concurrence</hi> of the <hi>Teſtimony</hi> and the <hi>Demand</hi> is no leſs <hi>conſiderable,</hi> ſeeing <hi>one</hi> had not the knowledge of the <hi>others</hi> Meſ<g ref="char:EOLhyphen"/>ſage, that M.G. <hi>Hariſon,</hi> Mr. <hi>Carew,</hi> and the <hi>reſt,</hi> ſhould <hi>ſecond</hi> the aforeſaid <hi>Twelve,</hi> by a meer <hi>hand</hi> and <hi>call</hi> of <hi>God,</hi> which they were <hi>obedient unto;</hi> (which is very <hi>exemplary</hi> and <hi>encouraging</hi>
+               <pb n="43" facs="tcp:118775:22"/>to all the <hi>Saints</hi> and <hi>Churches</hi> in <hi>England,</hi> who are faithful to the <hi>Cauſe</hi> of Chriſt) ſeeing ſo <hi>leading</hi> and <hi>calling</hi> a Providence.</p>
+            <p>The <hi>Demand</hi> and the <hi>Teſtimony</hi> is of a ſudden gotten to a <hi>high pitch,</hi> 
+               <note place="margin">The Teſtimony up at a high pitch.</note> which doth mightily raiſe up the <hi>expectations</hi> of the <hi>believing remnant.</hi>
+            </p>
+            <p>It is not meet for us to <hi>publiſh</hi> the <hi>matter</hi> of their <hi>Testimony,</hi> (being of the <hi>ſame nature</hi> with this <hi>Narrative</hi>) neither can we do it ſo <hi>accurately</hi> and <hi>faithfully</hi> as we hope ſome others <hi>will;</hi> The preſent <hi>work</hi> of the <hi>Day,</hi> (to <hi>gag</hi> the <hi>miſreports</hi> thereupon) for the <hi>quickning</hi> and <hi>ſtrengthning</hi> them that are to <hi>follow</hi> us, calling for the <hi>publica<g ref="char:EOLhyphen"/>tion</hi> thereof without <hi>delay,</hi> where-ever it lies. And the rather, for that <hi>Thoſe choice ſervants of the Lord Jeſus,</hi> 
+               <note place="margin">M.G. <hi>Hariſon</hi> Mr. <hi>Carew,</hi> &amp; Mr. <hi>Courtney,</hi> ſent away with a Troop of horſe to priſon, we know not whi<g ref="char:EOLhyphen"/>ther, the <hi>22</hi> day of the <hi>12</hi> month</note> M.G. <hi>Hariſon,</hi> Col. <hi>Rich,</hi> Mr. <hi>Carew,</hi> and Col. <hi>Courtney,</hi> are ſo cruelly uſed for their <hi>Teſtimony</hi> and the <hi>Truths ſake,</hi> (having no <hi>fact</hi> (but their <hi>faith</hi>) to charge them with) and hurried away to <hi>Priſon</hi> with a <hi>Troop of Horſe,</hi> and we know not whither. So that the man muſt needs be <hi>wilfully blinde</hi> indeed now, that will not ſee and ſay, <hi>The Saints are under Perſecution.</hi>
+            </p>
+            <p>Therefore let not the <hi>good People</hi> of the <hi>Nation</hi> be ſo ſhamefully <hi>abuſed</hi> and <hi>deceived</hi> as they have been, <note place="margin">A word of Cau<g ref="char:EOLhyphen"/>tion.</note> with <hi>lying Pamphlets</hi> and <hi>Informers,</hi> whiles the <hi>Truth</hi> cannot, muſt not, date not be <hi>printed,</hi> for fear of <hi>offending</hi> the men in <hi>Power,</hi> and ſuffering a <hi>Priſon,</hi> or <hi>worſe.</hi> Of all, beware of that <hi>Abominable Oracle</hi> the late <hi>Iron<g ref="char:EOLhyphen"/>monger</hi> (but now <hi>Pariſh-Preacher</hi>) <note n="*" place="margin">A man ſo baſe and ſcandalous, as makes him horrible, and his Name to ſtink among the Churches, as very unfit mat<g ref="char:EOLhyphen"/>ter to be a member of a Church, but ra<g ref="char:EOLhyphen"/>ther fit to be excommunicat<g ref="char:EOLhyphen"/>ed, &amp; exploded the ſociety of all the Saints, for bringing ſo foul reproach upon Religion, which he hath formerly pretended to; till he followed this Trade of Merchant for Lyes.</note> 
+               <hi>Walker,</hi> (his <hi>Weekly Pro<g ref="char:EOLhyphen"/>ceedings</hi>) whoſe <hi>forehead</hi> hath for many yeers been <hi>plated</hi> and <hi>bra<g ref="char:EOLhyphen"/>zened</hi> in the Trade and Art of <hi>Lying,</hi> making it his <hi>Calling</hi> and his <hi>Living</hi> (except the <hi>Tryers</hi> help him more eaſily to the <hi>Pariſh-Tythes.</hi>) This drives the poor man to ſo much <hi>pitiful ſoraping</hi> a<g ref="char:EOLhyphen"/>mong the <hi>Court-Clerks</hi> for a few <hi>Lyes</hi> to ſell every week at an <hi>eaſie rate,</hi> that he and his family may <hi>live comfortably</hi> upon the <hi>lying ſlandering,</hi> and <hi>traducing</hi> the Lords <hi>peculiar ones,</hi> who are as the <hi>apple of his eyes.</hi> How lamentably he hath abuſed Mr. <hi>Feak,</hi> Mr. <hi>Rogers</hi> M.G. <hi>Overton</hi> and many others, is well known, and <hi>one day</hi> he muſt <hi>anſwer</hi> before the juſt <hi>Judge of all hearts,</hi> with a <hi>wan countenance,</hi> and <hi>woful conſcience,</hi> however he thinks to <hi>palliate</hi> it at preſent with a <hi>So't was told me.</hi> But as <hi>Solomon</hi> ſays, Prov. 17.
+<pb n="44" facs="tcp:118775:23"/>4. <hi>A lyer giveth ear to a naughty tongue;</hi> and the <hi>curſe</hi> is threatned not onely to them that <hi>make,</hi> but them that <hi>receive</hi> and <hi>report</hi> Lyes, <hi>Rev.</hi> 21. Therefore (<hi>Exod.</hi> 23.1.) <hi>Put not thy hand to an unrighteous witneſs.</hi>
+            </p>
+            <p>Theſe things are <hi>publiſhed</hi> in meer love to the <hi>Truth</hi> and <hi>deſpi<g ref="char:EOLhyphen"/>ſed Saints</hi> of God, for whoſe ſake we are contented to become a <hi>reproach</hi> in the <hi>world,</hi> and to <hi>ſuffer any thing</hi> (by his <hi>Grace</hi>) that <hi>man</hi> can inflict upon us, ſo our dear <hi>Lord Jeſus</hi> may but <hi>reign,</hi> his <hi>Truth</hi> triumph, and his <hi>Kingdom</hi> be exalted. <hi>Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
